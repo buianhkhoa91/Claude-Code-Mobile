@@ -1,0 +1,1262 @@
+[
+  {
+    "lesson": 1,
+    "topic": "Chào hỏi nơi công sở (Workplace Greetings)",
+    "hook": "5 câu chào người Mỹ dùng mỗi sáng ở văn phòng – nghe phát hiểu liền, nói phát tự nhiên như dân bản xứ!",
+    "phrases": [
+      {
+        "en": "How's it going?",
+        "ipa": "/ˌhaʊz ɪt ˈɡoʊɪŋ/",
+        "vi": "Dạo này sao rồi? (chào thân mật)",
+        "example": "Hey Mark, how's it going? Ready for the big meeting today?",
+        "example_vi": "Chào Mark, dạo này sao rồi? Sẵn sàng cho buổi họp lớn hôm nay chưa?"
+      },
+      {
+        "en": "Good to see you",
+        "ipa": "/ˌɡʊd tə ˈsiː juː/",
+        "vi": "Rất vui được gặp lại bạn",
+        "example": "Good to see you again! It's been a while since the conference.",
+        "example_vi": "Rất vui được gặp lại anh! Từ hồi hội nghị đến giờ mới gặp đấy."
+      },
+      {
+        "en": "How have you been?",
+        "ipa": "/ˌhaʊ həv juː ˈbɪn/",
+        "vi": "Dạo này bạn thế nào? (lâu không gặp)",
+        "example": "How have you been? I heard you just got back from vacation.",
+        "example_vi": "Dạo này chị thế nào? Nghe nói chị vừa đi nghỉ về."
+      },
+      {
+        "en": "What's up?",
+        "ipa": "/ˌwʌts ˈʌp/",
+        "vi": "Có gì không? / Sao rồi? (rất thân mật)",
+        "example": "What's up, Lisa? Do you have a minute to talk?",
+        "example_vi": "Sao rồi Lisa? Có rảnh một phút nói chuyện không?"
+      },
+      {
+        "en": "Have a good one",
+        "ipa": "/ˌhæv ə ˈɡʊd ˌwʌn/",
+        "vi": "Chúc một ngày tốt lành (khi tạm biệt)",
+        "example": "I'm heading out now. Have a good one, everybody!",
+        "example_vi": "Tôi về trước nhé. Chúc cả nhà một ngày tốt lành!"
+      }
+    ]
+  },
+  {
+    "lesson": 2,
+    "topic": "Small Talk – Bắt chuyện xã giao",
+    "hook": "Đứng cạnh sếp Tây ở thang máy mà không biết nói gì? 5 cụm small talk này sẽ cứu bạn mọi tình huống!",
+    "phrases": [
+      {
+        "en": "break the ice",
+        "ipa": "/ˌbreɪk ði ˈaɪs/",
+        "vi": "phá vỡ sự ngại ngùng, mở đầu câu chuyện",
+        "example": "He told a funny story to break the ice with new clients.",
+        "example_vi": "Anh ấy kể một chuyện vui để phá băng với khách hàng mới."
+      },
+      {
+        "en": "How was your weekend?",
+        "ipa": "/ˌhaʊ wəz jər ˈwiːkend/",
+        "vi": "Cuối tuần của bạn thế nào?",
+        "example": "How was your weekend? Did you do anything fun with the family?",
+        "example_vi": "Cuối tuần của anh thế nào? Có đi chơi gì vui với gia đình không?"
+      },
+      {
+        "en": "can't complain",
+        "ipa": "/ˌkænt kəmˈpleɪn/",
+        "vi": "cũng ổn, không có gì phải phàn nàn",
+        "example": "Business is steady and the team is great, so I can't complain.",
+        "example_vi": "Công việc ổn định, đội nhóm lại tốt, nên chẳng có gì phải phàn nàn."
+      },
+      {
+        "en": "Any plans for the weekend?",
+        "ipa": "/ˌeni ˌplænz fər ðə ˈwiːkend/",
+        "vi": "Cuối tuần có kế hoạch gì chưa?",
+        "example": "Any plans for the weekend, or are you just taking it easy?",
+        "example_vi": "Cuối tuần có kế hoạch gì chưa, hay chỉ định nghỉ ngơi thư giãn thôi?"
+      },
+      {
+        "en": "catch up",
+        "ipa": "/ˌkætʃ ˈʌp/",
+        "vi": "hàn huyên, cập nhật chuyện của nhau",
+        "example": "Let's grab coffee soon and catch up on everything.",
+        "example_vi": "Hôm nào đi cà phê hàn huyên đủ thứ chuyện nhé."
+      }
+    ]
+  },
+  {
+    "lesson": 3,
+    "topic": "Giới thiệu bản thân (Introducing Yourself)",
+    "hook": "Gặp đối tác lần đầu mà chỉ biết nói 'My name is...'? 5 cụm từ này giúp bạn giới thiệu bản thân chuyên nghiệp như người Mỹ!",
+    "phrases": [
+      {
+        "en": "Nice to meet you",
+        "ipa": "/ˌnaɪs tə ˈmiːt juː/",
+        "vi": "Rất vui được làm quen với bạn",
+        "example": "Nice to meet you. I've heard great things about your team.",
+        "example_vi": "Rất vui được làm quen. Tôi nghe nhiều điều tốt đẹp về đội của anh."
+      },
+      {
+        "en": "I go by",
+        "ipa": "/aɪ ˈɡoʊ baɪ/",
+        "vi": "mọi người thường gọi tôi là...",
+        "example": "My name is Nguyen Thi Lan, but I go by Lana at work.",
+        "example_vi": "Tên tôi là Nguyễn Thị Lan, nhưng ở công ty mọi người gọi tôi là Lana."
+      },
+      {
+        "en": "be in charge of",
+        "ipa": "/bi ɪn ˈtʃɑːrdʒ əv/",
+        "vi": "phụ trách, chịu trách nhiệm về",
+        "example": "I'm in charge of marketing for the Southeast Asia region.",
+        "example_vi": "Tôi phụ trách mảng marketing cho khu vực Đông Nam Á."
+      },
+      {
+        "en": "My background is in",
+        "ipa": "/maɪ ˈbækɡraʊnd ɪz ɪn/",
+        "vi": "chuyên môn/xuất thân của tôi là về...",
+        "example": "My background is in finance, but I moved into product management.",
+        "example_vi": "Tôi xuất thân từ ngành tài chính, nhưng đã chuyển sang quản lý sản phẩm."
+      },
+      {
+        "en": "be with a company",
+        "ipa": "/bi wɪð ə ˈkʌmpəni/",
+        "vi": "làm việc cho một công ty",
+        "example": "I've been with the company for almost five years now.",
+        "example_vi": "Tôi làm việc ở công ty này được gần năm năm rồi."
+      }
+    ]
+  },
+  {
+    "lesson": 4,
+    "topic": "Giới thiệu đồng nghiệp & người khác",
+    "hook": "Dẫn sếp đi gặp khách mà lúng túng không biết giới thiệu sao cho sang? 5 cụm từ này người Mỹ dùng hằng ngày!",
+    "phrases": [
+      {
+        "en": "I'd like you to meet",
+        "ipa": "/aɪd ˌlaɪk juː tə ˈmiːt/",
+        "vi": "tôi muốn giới thiệu bạn với...",
+        "example": "Sarah, I'd like you to meet David, our new project manager.",
+        "example_vi": "Sarah, tôi muốn giới thiệu với chị David, quản lý dự án mới của chúng tôi."
+      },
+      {
+        "en": "Have you met...?",
+        "ipa": "/həv juː ˈmet/",
+        "vi": "bạn đã gặp... chưa?",
+        "example": "Have you met Jenny from accounting? She just joined last month.",
+        "example_vi": "Anh gặp Jenny bên kế toán chưa? Cô ấy mới vào tháng trước."
+      },
+      {
+        "en": "go-to person",
+        "ipa": "/ˈɡoʊ tuː ˌpɜːrsn/",
+        "vi": "người đáng tin cậy nhất để nhờ về một việc",
+        "example": "Tom is our go-to person for anything related to data analysis.",
+        "example_vi": "Tom là người số một của bọn tôi về mọi thứ liên quan đến phân tích dữ liệu."
+      },
+      {
+        "en": "head up",
+        "ipa": "/ˌhed ˈʌp/",
+        "vi": "đứng đầu, lãnh đạo (một nhóm/bộ phận)",
+        "example": "She heads up the sales team in our Chicago office.",
+        "example_vi": "Chị ấy đứng đầu đội kinh doanh ở văn phòng Chicago của chúng tôi."
+      },
+      {
+        "en": "Let me introduce you to",
+        "ipa": "/ˌlet miː ˌɪntrəˈduːs juː tuː/",
+        "vi": "để tôi giới thiệu bạn với...",
+        "example": "Let me introduce you to our CEO before the meeting starts.",
+        "example_vi": "Để tôi giới thiệu anh với CEO của chúng tôi trước khi cuộc họp bắt đầu."
+      }
+    ]
+  },
+  {
+    "lesson": 5,
+    "topic": "Cảm ơn & đáp lại lời cảm ơn",
+    "hook": "Đừng chỉ nói 'Thank you'! Người Mỹ có cả chục cách cảm ơn và đáp lại cực tự nhiên – học ngay 5 cụm hay nhất!",
+    "phrases": [
+      {
+        "en": "I appreciate it",
+        "ipa": "/aɪ əˈpriːʃieɪt ɪt/",
+        "vi": "tôi rất cảm kích / cảm ơn nhiều",
+        "example": "Thanks for staying late to help. I really appreciate it.",
+        "example_vi": "Cảm ơn bạn đã ở lại muộn để giúp. Tôi thật sự rất cảm kích."
+      },
+      {
+        "en": "Thanks a million",
+        "ipa": "/ˌθæŋks ə ˈmɪljən/",
+        "vi": "cảm ơn nhiều lắm",
+        "example": "Thanks a million for covering my shift on such short notice.",
+        "example_vi": "Cảm ơn cậu nhiều lắm vì đã trực thay ca cho mình dù báo gấp."
+      },
+      {
+        "en": "No worries",
+        "ipa": "/ˌnoʊ ˈwɜːriz/",
+        "vi": "không sao đâu, đừng bận tâm",
+        "example": "No worries at all. It only took me a few minutes.",
+        "example_vi": "Không sao đâu mà. Mình chỉ mất có vài phút thôi."
+      },
+      {
+        "en": "Don't mention it",
+        "ipa": "/ˌdoʊnt ˈmenʃn ɪt/",
+        "vi": "có gì đâu, đừng khách sáo",
+        "example": "Don't mention it. You would do the same for me.",
+        "example_vi": "Có gì đâu mà. Bạn cũng sẽ làm vậy cho mình thôi."
+      },
+      {
+        "en": "You're a lifesaver",
+        "ipa": "/jʊr ə ˈlaɪfseɪvər/",
+        "vi": "bạn đúng là vị cứu tinh",
+        "example": "You fixed my laptop right before the presentation. You're a lifesaver!",
+        "example_vi": "Cậu sửa laptop cho mình ngay trước giờ thuyết trình. Đúng là vị cứu tinh!"
+      }
+    ]
+  },
+  {
+    "lesson": 6,
+    "topic": "Xin lỗi & xử lý sai sót",
+    "hook": "Lỡ làm sai ở chỗ làm? Đừng chỉ nói 'I'm sorry' – 5 cụm từ này giúp bạn xin lỗi khéo và giữ uy tín như người Mỹ!",
+    "phrases": [
+      {
+        "en": "My bad",
+        "ipa": "/ˌmaɪ ˈbæd/",
+        "vi": "lỗi của tôi (thân mật)",
+        "example": "My bad, I sent you the wrong version of the report.",
+        "example_vi": "Lỗi của mình, mình gửi nhầm cho bạn bản báo cáo cũ rồi."
+      },
+      {
+        "en": "mess up",
+        "ipa": "/ˌmes ˈʌp/",
+        "vi": "làm hỏng, làm sai",
+        "example": "I messed up the numbers in the budget, but I'm fixing them now.",
+        "example_vi": "Tôi làm sai số liệu trong ngân sách, nhưng đang sửa lại ngay đây."
+      },
+      {
+        "en": "own up to",
+        "ipa": "/ˌoʊn ˈʌp tuː/",
+        "vi": "thẳng thắn nhận lỗi",
+        "example": "He owned up to the mistake instead of blaming the team.",
+        "example_vi": "Anh ấy thẳng thắn nhận lỗi thay vì đổ cho cả nhóm."
+      },
+      {
+        "en": "make it up to someone",
+        "ipa": "/ˌmeɪk ɪt ˈʌp tə ˌsʌmwʌn/",
+        "vi": "bù đắp lại cho ai đó",
+        "example": "I'm sorry I missed your meeting. Let me make it up to you.",
+        "example_vi": "Xin lỗi vì tôi lỡ buổi họp của anh. Để tôi bù lại cho anh nhé."
+      },
+      {
+        "en": "It won't happen again",
+        "ipa": "/ɪt ˌwoʊnt ˈhæpən əˈɡen/",
+        "vi": "chuyện này sẽ không tái diễn nữa",
+        "example": "I apologize for the late delivery. It won't happen again.",
+        "example_vi": "Tôi xin lỗi vì giao hàng trễ. Chuyện này sẽ không tái diễn nữa."
+      }
+    ]
+  },
+  {
+    "lesson": 7,
+    "topic": "Nhờ giúp đỡ (Asking for Help)",
+    "hook": "Muốn nhờ đồng nghiệp giúp mà sợ nói cộc lốc? 5 cụm từ này giúp bạn nhờ vả lịch sự, ai nghe cũng muốn giúp!",
+    "phrases": [
+      {
+        "en": "do someone a favor",
+        "ipa": "/ˌduː ˌsʌmwʌn ə ˈfeɪvər/",
+        "vi": "giúp ai đó một việc",
+        "example": "Could you do me a favor and review this proposal today?",
+        "example_vi": "Bạn giúp mình một việc, xem lại bản đề xuất này trong hôm nay được không?"
+      },
+      {
+        "en": "give someone a hand",
+        "ipa": "/ˌɡɪv ˌsʌmwʌn ə ˈhænd/",
+        "vi": "giúp ai đó một tay",
+        "example": "Can you give me a hand with these slides before lunch?",
+        "example_vi": "Cậu giúp mình một tay làm mấy slide này trước giờ ăn trưa nhé?"
+      },
+      {
+        "en": "help out",
+        "ipa": "/ˌhelp ˈaʊt/",
+        "vi": "giúp đỡ, hỗ trợ",
+        "example": "Maria helped me out when I was buried in paperwork.",
+        "example_vi": "Maria đã hỗ trợ tôi lúc tôi ngập đầu trong giấy tờ."
+      },
+      {
+        "en": "walk someone through",
+        "ipa": "/ˌwɔːk ˌsʌmwʌn ˈθruː/",
+        "vi": "hướng dẫn ai đó từng bước",
+        "example": "Could you walk me through the new expense report system?",
+        "example_vi": "Bạn hướng dẫn mình từng bước dùng hệ thống báo cáo chi phí mới nhé?"
+      },
+      {
+        "en": "pick someone's brain",
+        "ipa": "/ˌpɪk ˌsʌmwʌnz ˈbreɪn/",
+        "vi": "xin ý kiến, hỏi kinh nghiệm của ai đó",
+        "example": "Can I pick your brain about the client presentation next week?",
+        "example_vi": "Mình xin ý kiến của bạn về buổi thuyết trình với khách tuần sau nhé?"
+      }
+    ]
+  },
+  {
+    "lesson": 8,
+    "topic": "Đề nghị giúp đỡ (Offering Help)",
+    "hook": "Muốn ghi điểm với sếp và đồng nghiệp? Học ngay 5 cách đề nghị giúp đỡ cực tự nhiên mà người Mỹ dùng mỗi ngày!",
+    "phrases": [
+      {
+        "en": "happy to help",
+        "ipa": "/ˌhæpi tə ˈhelp/",
+        "vi": "rất sẵn lòng giúp đỡ",
+        "example": "If you have questions about the software, I'm happy to help.",
+        "example_vi": "Nếu bạn có thắc mắc gì về phần mềm, mình rất sẵn lòng giúp."
+      },
+      {
+        "en": "pitch in",
+        "ipa": "/ˌpɪtʃ ˈɪn/",
+        "vi": "xắn tay vào giúp, chung sức",
+        "example": "We all pitched in to finish the project before the deadline.",
+        "example_vi": "Cả nhóm cùng xắn tay vào để hoàn thành dự án trước hạn chót."
+      },
+      {
+        "en": "take something off your plate",
+        "ipa": "/ˌteɪk ˌsʌmθɪŋ ˌɔːf jər ˈpleɪt/",
+        "vi": "gánh bớt việc cho ai đó",
+        "example": "You look swamped. Let me take something off your plate.",
+        "example_vi": "Trông bạn ngập việc quá. Để mình gánh bớt một phần cho."
+      },
+      {
+        "en": "have someone's back",
+        "ipa": "/ˌhæv ˌsʌmwʌnz ˈbæk/",
+        "vi": "luôn ủng hộ, hỗ trợ ai đó",
+        "example": "Don't worry about the meeting tomorrow. I've got your back.",
+        "example_vi": "Đừng lo về cuộc họp ngày mai. Có mình hỗ trợ bạn rồi."
+      },
+      {
+        "en": "Let me know if you need anything",
+        "ipa": "/ˌlet miː ˈnoʊ ɪf juː ˌniːd ˈeniθɪŋ/",
+        "vi": "cần gì cứ nói với tôi nhé",
+        "example": "I'll be at my desk, so let me know if you need anything.",
+        "example_vi": "Mình ngồi ở bàn làm việc, cần gì cứ nói với mình nhé."
+      }
+    ]
+  },
+  {
+    "lesson": 9,
+    "topic": "Đồng ý & phản đối lịch sự",
+    "hook": "Không đồng ý với sếp mà vẫn được lòng sếp? Hoàn toàn có thể – với 5 cụm từ đồng ý và phản đối kiểu Mỹ này!",
+    "phrases": [
+      {
+        "en": "couldn't agree more",
+        "ipa": "/ˌkʊdnt əˌɡriː ˈmɔːr/",
+        "vi": "hoàn toàn đồng ý",
+        "example": "I couldn't agree more. Remote work has really boosted our productivity.",
+        "example_vi": "Tôi hoàn toàn đồng ý. Làm việc từ xa đã tăng năng suất rõ rệt."
+      },
+      {
+        "en": "on board",
+        "ipa": "/ˌɑːn ˈbɔːrd/",
+        "vi": "đồng thuận, ủng hộ (kế hoạch, ý tưởng)",
+        "example": "The whole team is on board with the new marketing strategy.",
+        "example_vi": "Cả đội đều đồng thuận với chiến lược marketing mới."
+      },
+      {
+        "en": "fair enough",
+        "ipa": "/ˌfer ɪˈnʌf/",
+        "vi": "cũng hợp lý, được thôi",
+        "example": "You want more time to review the data? Fair enough.",
+        "example_vi": "Bạn muốn thêm thời gian xem lại dữ liệu à? Cũng hợp lý thôi."
+      },
+      {
+        "en": "I see your point",
+        "ipa": "/aɪ ˌsiː jər ˈpɔɪnt/",
+        "vi": "tôi hiểu ý bạn (trước khi phản biện)",
+        "example": "I see your point, but the budget is still too tight.",
+        "example_vi": "Tôi hiểu ý anh, nhưng ngân sách vẫn còn eo hẹp quá."
+      },
+      {
+        "en": "agree to disagree",
+        "ipa": "/əˌɡriː tə ˌdɪsəˈɡriː/",
+        "vi": "chấp nhận giữ quan điểm khác nhau",
+        "example": "We'll have to agree to disagree about the office layout.",
+        "example_vi": "Về cách bố trí văn phòng, chắc chúng ta đành mỗi người giữ ý kiến riêng vậy."
+      }
+    ]
+  },
+  {
+    "lesson": 10,
+    "topic": "Hỏi lại khi chưa hiểu (Clarifying)",
+    "hook": "Sếp Tây nói nhanh quá nghe không kịp? Đừng gật đại! 5 cụm từ này giúp bạn hỏi lại lịch sự mà không hề mất điểm.",
+    "phrases": [
+      {
+        "en": "I didn't catch that",
+        "ipa": "/aɪ ˌdɪdnt ˈkætʃ ðæt/",
+        "vi": "tôi nghe chưa rõ chỗ đó",
+        "example": "Sorry, I didn't catch that. Could you repeat the last part?",
+        "example_vi": "Xin lỗi, tôi nghe chưa rõ. Anh nhắc lại phần cuối được không?"
+      },
+      {
+        "en": "run that by me again",
+        "ipa": "/ˌrʌn ðæt ˌbaɪ miː əˈɡen/",
+        "vi": "nói lại cho tôi nghe lần nữa",
+        "example": "Could you run that by me again? I want the details right.",
+        "example_vi": "Bạn nói lại lần nữa được không? Tôi muốn nắm đúng chi tiết."
+      },
+      {
+        "en": "What do you mean by...?",
+        "ipa": "/ˌwʌt də juː ˈmiːn baɪ/",
+        "vi": "ý bạn là gì khi nói...?",
+        "example": "What do you mean by 'restructuring'? Will it affect our department?",
+        "example_vi": "Ý anh là gì khi nói 'tái cấu trúc'? Nó có ảnh hưởng đến phòng mình không?"
+      },
+      {
+        "en": "break down",
+        "ipa": "/ˌbreɪk ˈdaʊn/",
+        "vi": "chia nhỏ, giải thích chi tiết từng phần",
+        "example": "Can you break down the process into simpler steps for me?",
+        "example_vi": "Bạn chia nhỏ quy trình thành các bước đơn giản hơn giúp mình nhé?"
+      },
+      {
+        "en": "clear up",
+        "ipa": "/ˌklɪr ˈʌp/",
+        "vi": "làm rõ, giải tỏa hiểu lầm",
+        "example": "Let me clear up any confusion about the new schedule.",
+        "example_vi": "Để tôi làm rõ mọi thắc mắc về lịch làm việc mới."
+      }
+    ]
+  },
+  {
+    "lesson": 11,
+    "topic": "Phrasal Verbs với GET nơi công sở",
+    "hook": "GET không chỉ là 'nhận'! 5 phrasal verbs với GET này xuất hiện trong mọi cuộc trò chuyện công sở của người Mỹ.",
+    "phrases": [
+      {
+        "en": "get along with",
+        "ipa": "/ˌɡet əˈlɔːŋ wɪð/",
+        "vi": "hòa hợp, có quan hệ tốt với",
+        "example": "She gets along with everyone, even the most difficult clients.",
+        "example_vi": "Cô ấy hòa hợp với tất cả mọi người, kể cả những khách hàng khó tính nhất."
+      },
+      {
+        "en": "get back to",
+        "ipa": "/ˌɡet ˈbæk tuː/",
+        "vi": "phản hồi lại sau (cho ai đó)",
+        "example": "I'll check the numbers and get back to you by noon.",
+        "example_vi": "Tôi sẽ kiểm tra số liệu và phản hồi anh trước buổi trưa."
+      },
+      {
+        "en": "get around to",
+        "ipa": "/ˌɡet əˈraʊnd tuː/",
+        "vi": "cuối cùng cũng có thời gian làm (việc gì)",
+        "example": "I finally got around to organizing my inbox this morning.",
+        "example_vi": "Sáng nay cuối cùng tôi cũng có thời gian dọn dẹp hộp thư."
+      },
+      {
+        "en": "get ahead",
+        "ipa": "/ˌɡet əˈhed/",
+        "vi": "thăng tiến, vượt lên trong sự nghiệp",
+        "example": "He works weekends because he wants to get ahead in his career.",
+        "example_vi": "Anh ấy làm cả cuối tuần vì muốn thăng tiến trong sự nghiệp."
+      },
+      {
+        "en": "get across",
+        "ipa": "/ˌɡet əˈkrɔːs/",
+        "vi": "truyền đạt (ý tưởng) cho người khác hiểu",
+        "example": "Use simple charts to get your message across in the presentation.",
+        "example_vi": "Hãy dùng biểu đồ đơn giản để truyền đạt thông điệp trong bài thuyết trình."
+      }
+    ]
+  },
+  {
+    "lesson": 12,
+    "topic": "Phrasal Verbs với TAKE",
+    "hook": "Take on, take over, take off – nghe na ná mà nghĩa khác hẳn nhau! 5 phrasal verbs với TAKE dân văn phòng phải biết.",
+    "phrases": [
+      {
+        "en": "take on",
+        "ipa": "/ˌteɪk ˈɑːn/",
+        "vi": "nhận thêm (việc, trách nhiệm)",
+        "example": "I can't take on any new projects until next month.",
+        "example_vi": "Tôi không thể nhận thêm dự án mới nào cho đến tháng sau."
+      },
+      {
+        "en": "take over",
+        "ipa": "/ˌteɪk ˈoʊvər/",
+        "vi": "tiếp quản, đảm nhận thay",
+        "example": "Linda will take over the account when James retires in June.",
+        "example_vi": "Linda sẽ tiếp quản khách hàng này khi James nghỉ hưu vào tháng Sáu."
+      },
+      {
+        "en": "take off",
+        "ipa": "/ˌteɪk ˈɔːf/",
+        "vi": "cất cánh, phát triển vượt bậc",
+        "example": "Our new app really took off after the holiday promotion.",
+        "example_vi": "Ứng dụng mới của chúng tôi thực sự bùng nổ sau đợt khuyến mãi lễ."
+      },
+      {
+        "en": "take up",
+        "ipa": "/ˌteɪk ˈʌp/",
+        "vi": "chiếm (thời gian, không gian)",
+        "example": "These weekly meetings take up too much of our time.",
+        "example_vi": "Mấy cuộc họp hằng tuần này chiếm quá nhiều thời gian của chúng ta."
+      },
+      {
+        "en": "take in",
+        "ipa": "/ˌteɪk ˈɪn/",
+        "vi": "tiếp thu, lĩnh hội (thông tin)",
+        "example": "That was a lot of information to take in at once.",
+        "example_vi": "Lượng thông tin đó nhiều quá, khó mà tiếp thu hết một lúc."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "topic": "Phrasal Verbs với PUT",
+    "hook": "Đừng để deadline 'put off' bạn! 5 phrasal verbs với PUT cực thông dụng giúp bạn nói chuyện công việc như dân bản xứ.",
+    "phrases": [
+      {
+        "en": "put off",
+        "ipa": "/ˌpʊt ˈɔːf/",
+        "vi": "trì hoãn, lùi lại",
+        "example": "Don't put off the report until the night before it's due.",
+        "example_vi": "Đừng trì hoãn báo cáo đến tận đêm trước hạn nộp."
+      },
+      {
+        "en": "put together",
+        "ipa": "/ˌpʊt təˈɡeðər/",
+        "vi": "soạn, chuẩn bị, tổng hợp (tài liệu, kế hoạch)",
+        "example": "She put together an impressive presentation in just two days.",
+        "example_vi": "Cô ấy soạn xong một bài thuyết trình ấn tượng chỉ trong hai ngày."
+      },
+      {
+        "en": "put forward",
+        "ipa": "/ˌpʊt ˈfɔːrwərd/",
+        "vi": "đề xuất, đưa ra (ý tưởng, kế hoạch)",
+        "example": "He put forward a plan to cut costs by twenty percent.",
+        "example_vi": "Anh ấy đề xuất một kế hoạch cắt giảm hai mươi phần trăm chi phí."
+      },
+      {
+        "en": "put up with",
+        "ipa": "/ˌpʊt ˈʌp wɪð/",
+        "vi": "chịu đựng, cam chịu",
+        "example": "I can't put up with these constant last-minute changes anymore.",
+        "example_vi": "Tôi không thể chịu nổi mấy thay đổi phút chót liên tục này nữa."
+      },
+      {
+        "en": "put in",
+        "ipa": "/ˌpʊt ˈɪn/",
+        "vi": "bỏ ra (thời gian, công sức); nộp (đơn)",
+        "example": "She put in extra hours to finish the proposal on time.",
+        "example_vi": "Cô ấy bỏ thêm giờ làm để hoàn thành bản đề xuất đúng hạn."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "topic": "Phrasal Verbs với GO",
+    "hook": "Go over, go through, go ahead... bạn có chắc mình dùng đúng? 5 phrasal verbs với GO người Mỹ nói mỗi ngày ở văn phòng!",
+    "phrases": [
+      {
+        "en": "go over",
+        "ipa": "/ˌɡoʊ ˈoʊvər/",
+        "vi": "xem lại, rà soát kỹ",
+        "example": "Let's go over the contract one more time before signing.",
+        "example_vi": "Chúng ta rà soát lại hợp đồng lần nữa trước khi ký nhé."
+      },
+      {
+        "en": "go through",
+        "ipa": "/ˌɡoʊ ˈθruː/",
+        "vi": "xem xét, lục tìm từng phần",
+        "example": "I went through all the emails but couldn't find the invoice.",
+        "example_vi": "Tôi đã lục hết các email nhưng không tìm thấy hóa đơn."
+      },
+      {
+        "en": "go ahead",
+        "ipa": "/ˌɡoʊ əˈhed/",
+        "vi": "cứ tiến hành, cứ làm đi",
+        "example": "You can go ahead and start the meeting without me.",
+        "example_vi": "Mọi người cứ bắt đầu cuộc họp trước, không cần đợi tôi."
+      },
+      {
+        "en": "go along with",
+        "ipa": "/ˌɡoʊ əˈlɔːŋ wɪð/",
+        "vi": "đồng thuận, làm theo (ý kiến, quyết định)",
+        "example": "I'll go along with the team's decision on this one.",
+        "example_vi": "Vụ này tôi sẽ theo quyết định của cả nhóm."
+      },
+      {
+        "en": "go for",
+        "ipa": "/ˌɡoʊ ˈfɔːr/",
+        "vi": "quyết tâm theo đuổi, chọn",
+        "example": "If they offer you the manager position, go for it!",
+        "example_vi": "Nếu họ đề nghị bạn vị trí quản lý, cứ mạnh dạn nhận đi!"
+      }
+    ]
+  },
+  {
+    "lesson": 15,
+    "topic": "Phrasal Verbs với COME",
+    "hook": "'Something came up' – câu thoái thác kinh điển của người Mỹ! Học ngay 5 phrasal verbs với COME để hiểu và dùng chuẩn.",
+    "phrases": [
+      {
+        "en": "come up",
+        "ipa": "/ˌkʌm ˈʌp/",
+        "vi": "phát sinh đột xuất (việc, vấn đề)",
+        "example": "Something urgent came up, so I have to cancel our lunch.",
+        "example_vi": "Có việc gấp phát sinh nên tôi phải hủy bữa trưa của chúng ta."
+      },
+      {
+        "en": "come up with",
+        "ipa": "/ˌkʌm ˈʌp wɪð/",
+        "vi": "nghĩ ra (ý tưởng, giải pháp)",
+        "example": "We need to come up with a better solution by Friday.",
+        "example_vi": "Chúng ta cần nghĩ ra giải pháp tốt hơn trước thứ Sáu."
+      },
+      {
+        "en": "come across",
+        "ipa": "/ˌkʌm əˈkrɔːs/",
+        "vi": "tình cờ thấy, bắt gặp",
+        "example": "I came across an interesting article about our biggest competitor.",
+        "example_vi": "Tôi tình cờ đọc được một bài viết thú vị về đối thủ lớn nhất của mình."
+      },
+      {
+        "en": "come along",
+        "ipa": "/ˌkʌm əˈlɔːŋ/",
+        "vi": "tiến triển (công việc, dự án)",
+        "example": "How's the new website coming along? Launch is next week.",
+        "example_vi": "Trang web mới tiến triển sao rồi? Tuần sau ra mắt rồi đấy."
+      },
+      {
+        "en": "come through",
+        "ipa": "/ˌkʌm ˈθruː/",
+        "vi": "làm được như kỳ vọng, không phụ lòng",
+        "example": "We needed extra funding, and our manager really came through.",
+        "example_vi": "Chúng tôi cần thêm kinh phí, và sếp đã thực sự không phụ lòng cả đội."
+      }
+    ]
+  },
+  {
+    "lesson": 16,
+    "topic": "Phrasal Verbs với LOOK",
+    "hook": "'I look forward to...' xuất hiện trong 90% email công việc! Cùng 4 phrasal verbs với LOOK nữa mà bạn phải thuộc lòng.",
+    "phrases": [
+      {
+        "en": "look into",
+        "ipa": "/ˌlʊk ˈɪntuː/",
+        "vi": "tìm hiểu, điều tra (vấn đề)",
+        "example": "I'll look into the billing issue and update you tomorrow.",
+        "example_vi": "Tôi sẽ tìm hiểu vấn đề hóa đơn và báo lại anh vào ngày mai."
+      },
+      {
+        "en": "look over",
+        "ipa": "/ˌlʊk ˈoʊvər/",
+        "vi": "xem qua, kiểm tra nhanh",
+        "example": "Could you look over my email before I send it out?",
+        "example_vi": "Bạn xem qua email của mình trước khi mình gửi đi nhé?"
+      },
+      {
+        "en": "look up",
+        "ipa": "/ˌlʊk ˈʌp/",
+        "vi": "tra cứu (thông tin)",
+        "example": "Let me look up the client's phone number in the system.",
+        "example_vi": "Để tôi tra số điện thoại của khách hàng trong hệ thống."
+      },
+      {
+        "en": "look forward to",
+        "ipa": "/ˌlʊk ˈfɔːrwərd tuː/",
+        "vi": "mong chờ, háo hức đợi",
+        "example": "I look forward to working with your team on this project.",
+        "example_vi": "Tôi rất mong được hợp tác cùng đội của anh trong dự án này."
+      },
+      {
+        "en": "look after",
+        "ipa": "/ˌlʊk ˈæftər/",
+        "vi": "trông nom, phụ trách chăm lo",
+        "example": "Can you look after my accounts while I'm on vacation?",
+        "example_vi": "Bạn trông giúp các khách hàng của mình trong lúc mình đi nghỉ nhé?"
+      }
+    ]
+  },
+  {
+    "lesson": 17,
+    "topic": "Phrasal Verbs với WORK & CARRY",
+    "hook": "Work out không chỉ là tập gym! 5 phrasal verbs với WORK và CARRY khiến tiếng Anh công việc của bạn lên trình hẳn.",
+    "phrases": [
+      {
+        "en": "work out",
+        "ipa": "/ˌwɜːrk ˈaʊt/",
+        "vi": "ổn thỏa, có kết quả tốt; tìm ra (giải pháp)",
+        "example": "I'm sure things will work out with the new client.",
+        "example_vi": "Tôi tin là mọi chuyện với khách hàng mới sẽ ổn thỏa thôi."
+      },
+      {
+        "en": "work on",
+        "ipa": "/ˌwɜːrk ˈɑːn/",
+        "vi": "đang làm, đang xử lý (việc gì)",
+        "example": "I'm working on the quarterly report right now.",
+        "example_vi": "Tôi đang làm báo cáo quý ngay lúc này đây."
+      },
+      {
+        "en": "work around",
+        "ipa": "/ˌwɜːrk əˈraʊnd/",
+        "vi": "tìm cách xoay xở, linh hoạt theo (lịch, trở ngại)",
+        "example": "We can work around your schedule for the training session.",
+        "example_vi": "Chúng tôi có thể sắp xếp buổi đào tạo linh hoạt theo lịch của bạn."
+      },
+      {
+        "en": "carry out",
+        "ipa": "/ˌkæri ˈaʊt/",
+        "vi": "thực hiện, tiến hành",
+        "example": "The team carried out the survey in less than a week.",
+        "example_vi": "Cả nhóm đã tiến hành khảo sát trong chưa đầy một tuần."
+      },
+      {
+        "en": "carry on",
+        "ipa": "/ˌkæri ˈɑːn/",
+        "vi": "tiếp tục (công việc)",
+        "example": "Please carry on with the meeting; I'll join in ten minutes.",
+        "example_vi": "Mọi người cứ tiếp tục họp nhé, mười phút nữa tôi vào."
+      }
+    ]
+  },
+  {
+    "lesson": 18,
+    "topic": "Phrasal Verbs với SET",
+    "hook": "Set up meeting, set aside time, set back deadline – bộ 5 phrasal verbs với SET mà dân văn phòng dùng không sót ngày nào!",
+    "phrases": [
+      {
+        "en": "set up",
+        "ipa": "/ˌset ˈʌp/",
+        "vi": "sắp xếp, thiết lập (cuộc họp, hệ thống)",
+        "example": "Can you set up a meeting with the design team tomorrow?",
+        "example_vi": "Bạn sắp xếp một cuộc họp với đội thiết kế vào ngày mai nhé?"
+      },
+      {
+        "en": "set out",
+        "ipa": "/ˌset ˈaʊt/",
+        "vi": "đặt ra, trình bày rõ (mục tiêu, kế hoạch)",
+        "example": "We set out clear goals for each quarter of the year.",
+        "example_vi": "Chúng tôi đặt ra mục tiêu rõ ràng cho từng quý trong năm."
+      },
+      {
+        "en": "set aside",
+        "ipa": "/ˌset əˈsaɪd/",
+        "vi": "dành riêng (thời gian, tiền bạc)",
+        "example": "Set aside thirty minutes each morning to answer emails.",
+        "example_vi": "Hãy dành riêng ba mươi phút mỗi sáng để trả lời email."
+      },
+      {
+        "en": "set back",
+        "ipa": "/ˌset ˈbæk/",
+        "vi": "làm chậm trễ, cản trở tiến độ",
+        "example": "The software bug set the launch back by two weeks.",
+        "example_vi": "Lỗi phần mềm khiến đợt ra mắt bị chậm lại hai tuần."
+      },
+      {
+        "en": "set off",
+        "ipa": "/ˌset ˈɔːf/",
+        "vi": "châm ngòi, gây ra (chuỗi phản ứng)",
+        "example": "The error message set off a wave of customer complaints.",
+        "example_vi": "Thông báo lỗi đó châm ngòi cho một làn sóng khiếu nại từ khách hàng."
+      }
+    ]
+  },
+  {
+    "lesson": 19,
+    "topic": "Phrasal Verbs với TURN",
+    "hook": "Bị 'turn down' không có nghĩa là quay xuống đâu! 5 phrasal verbs với TURN giúp bạn hiểu chuẩn xác mọi cuộc hội thoại công sở.",
+    "phrases": [
+      {
+        "en": "turn down",
+        "ipa": "/ˌtɜːrn ˈdaʊn/",
+        "vi": "từ chối (lời mời, đề nghị)",
+        "example": "She turned down the job offer because of the long commute.",
+        "example_vi": "Cô ấy từ chối lời mời làm việc vì quãng đường đi làm quá xa."
+      },
+      {
+        "en": "turn in",
+        "ipa": "/ˌtɜːrn ˈɪn/",
+        "vi": "nộp (báo cáo, tài liệu)",
+        "example": "Please turn in your expense reports by Friday afternoon.",
+        "example_vi": "Vui lòng nộp báo cáo chi phí trước chiều thứ Sáu."
+      },
+      {
+        "en": "turn around",
+        "ipa": "/ˌtɜːrn əˈraʊnd/",
+        "vi": "xoay chuyển tình thế, vực dậy",
+        "example": "The new CEO turned the struggling company around in two years.",
+        "example_vi": "Vị CEO mới đã vực dậy công ty đang khó khăn chỉ trong hai năm."
+      },
+      {
+        "en": "turn out",
+        "ipa": "/ˌtɜːrn ˈaʊt/",
+        "vi": "hóa ra, có kết quả là",
+        "example": "The product launch turned out much better than we expected.",
+        "example_vi": "Buổi ra mắt sản phẩm hóa ra thành công hơn nhiều so với kỳ vọng."
+      },
+      {
+        "en": "turn up",
+        "ipa": "/ˌtɜːrn ˈʌp/",
+        "vi": "xuất hiện, có mặt",
+        "example": "Only ten people turned up for the training session today.",
+        "example_vi": "Hôm nay chỉ có mười người đến dự buổi đào tạo."
+      }
+    ]
+  },
+  {
+    "lesson": 20,
+    "topic": "Phrasal Verbs với BRING",
+    "hook": "'Let me bring you up to speed' – câu cửa miệng của sếp Mỹ! 5 phrasal verbs với BRING bạn sẽ nghe trong mọi cuộc họp.",
+    "phrases": [
+      {
+        "en": "bring up",
+        "ipa": "/ˌbrɪŋ ˈʌp/",
+        "vi": "nêu ra, đề cập (vấn đề)",
+        "example": "I'll bring up the budget issue at tomorrow's staff meeting.",
+        "example_vi": "Tôi sẽ nêu vấn đề ngân sách trong cuộc họp nhân viên ngày mai."
+      },
+      {
+        "en": "bring in",
+        "ipa": "/ˌbrɪŋ ˈɪn/",
+        "vi": "mời về, tuyển về (người); mang lại (doanh thu)",
+        "example": "We brought in a consultant to improve our sales process.",
+        "example_vi": "Chúng tôi mời một chuyên gia tư vấn về để cải thiện quy trình bán hàng."
+      },
+      {
+        "en": "bring about",
+        "ipa": "/ˌbrɪŋ əˈbaʊt/",
+        "vi": "mang lại, tạo ra (sự thay đổi)",
+        "example": "The new policy brought about big changes in how we work.",
+        "example_vi": "Chính sách mới đã tạo ra những thay đổi lớn trong cách chúng tôi làm việc."
+      },
+      {
+        "en": "bring forward",
+        "ipa": "/ˌbrɪŋ ˈfɔːrwərd/",
+        "vi": "đẩy sớm lên (lịch, thời hạn)",
+        "example": "Can we bring the deadline forward to Wednesday instead of Friday?",
+        "example_vi": "Chúng ta đẩy hạn chót lên thứ Tư thay vì thứ Sáu được không?"
+      },
+      {
+        "en": "bring someone up to speed",
+        "ipa": "/ˌbrɪŋ ˌsʌmwʌn ˌʌp tə ˈspiːd/",
+        "vi": "cập nhật tình hình mới nhất cho ai đó",
+        "example": "Let me bring you up to speed on the project status.",
+        "example_vi": "Để tôi cập nhật cho bạn tình hình mới nhất của dự án."
+      }
+    ]
+  },
+  {
+    "lesson": 21,
+    "topic": "Bắt đầu cuộc họp",
+    "hook": "Mở đầu cuộc họp bằng tiếng Anh sao cho chuyên nghiệp? 5 cụm từ này là 'câu thần chú' của mọi người chủ trì họp ở Mỹ!",
+    "phrases": [
+      {
+        "en": "kick off",
+        "ipa": "/ˌkɪk ˈɔːf/",
+        "vi": "bắt đầu, khởi động (cuộc họp, dự án)",
+        "example": "Let's kick off the meeting with a quick progress update.",
+        "example_vi": "Chúng ta bắt đầu cuộc họp bằng phần cập nhật tiến độ nhanh nhé."
+      },
+      {
+        "en": "get the ball rolling",
+        "ipa": "/ˌɡet ðə ˌbɔːl ˈroʊlɪŋ/",
+        "vi": "khởi động, bắt đầu mọi việc",
+        "example": "To get the ball rolling, let's review last week's numbers.",
+        "example_vi": "Để khởi động, chúng ta cùng xem lại số liệu tuần trước nhé."
+      },
+      {
+        "en": "get down to business",
+        "ipa": "/ˌɡet ˌdaʊn tə ˈbɪznəs/",
+        "vi": "vào việc chính ngay",
+        "example": "We're short on time, so let's get down to business.",
+        "example_vi": "Chúng ta không có nhiều thời gian, nên vào việc chính luôn nhé."
+      },
+      {
+        "en": "Thanks for joining",
+        "ipa": "/ˌθæŋks fər ˈdʒɔɪnɪŋ/",
+        "vi": "cảm ơn mọi người đã tham dự",
+        "example": "Thanks for joining on such short notice, everyone.",
+        "example_vi": "Cảm ơn mọi người đã tham dự dù được báo khá gấp."
+      },
+      {
+        "en": "on the agenda",
+        "ipa": "/ˌɑːn ði əˈdʒendə/",
+        "vi": "nằm trong chương trình họp",
+        "example": "First on the agenda is the marketing budget for next quarter.",
+        "example_vi": "Mục đầu tiên trong chương trình là ngân sách marketing cho quý tới."
+      }
+    ]
+  },
+  {
+    "lesson": 22,
+    "topic": "Nêu ý kiến trong cuộc họp",
+    "hook": "Ngồi họp với team nước ngoài mà không dám lên tiếng? 5 cụm từ này giúp bạn nêu ý kiến tự tin và cực kỳ chuyên nghiệp!",
+    "phrases": [
+      {
+        "en": "from my perspective",
+        "ipa": "/frəm ˌmaɪ pərˈspektɪv/",
+        "vi": "theo góc nhìn của tôi",
+        "example": "From my perspective, we should focus on customer retention first.",
+        "example_vi": "Theo góc nhìn của tôi, chúng ta nên ưu tiên giữ chân khách hàng trước."
+      },
+      {
+        "en": "the way I see it",
+        "ipa": "/ðə ˌweɪ ˌaɪ ˈsiː ɪt/",
+        "vi": "theo cách tôi nhìn nhận",
+        "example": "The way I see it, we have two options here.",
+        "example_vi": "Theo cách tôi nhìn nhận, chúng ta có hai lựa chọn ở đây."
+      },
+      {
+        "en": "my two cents",
+        "ipa": "/ˌmaɪ ˌtuː ˈsents/",
+        "vi": "ý kiến nhỏ của tôi (khiêm tốn)",
+        "example": "Here's my two cents: the price is too high for this market.",
+        "example_vi": "Ý kiến nhỏ của tôi thôi: mức giá này quá cao so với thị trường."
+      },
+      {
+        "en": "weigh in",
+        "ipa": "/ˌweɪ ˈɪn/",
+        "vi": "đóng góp ý kiến (vào cuộc thảo luận)",
+        "example": "Sarah, would you like to weigh in on the new design?",
+        "example_vi": "Sarah, chị có muốn góp ý kiến về thiết kế mới không?"
+      },
+      {
+        "en": "to be honest",
+        "ipa": "/tə bi ˈɑːnɪst/",
+        "vi": "thành thật mà nói",
+        "example": "To be honest, I think the timeline is too ambitious.",
+        "example_vi": "Thành thật mà nói, tôi thấy tiến độ này hơi tham vọng quá."
+      }
+    ]
+  },
+  {
+    "lesson": 23,
+    "topic": "Ngắt lời lịch sự",
+    "hook": "Muốn chen vào cuộc họp mà không bị coi là bất lịch sự? Người Mỹ có 5 cụm từ 'ngắt lời chuẩn văn minh' này đây!",
+    "phrases": [
+      {
+        "en": "Sorry to interrupt",
+        "ipa": "/ˌsɑːri tə ˌɪntəˈrʌpt/",
+        "vi": "xin lỗi vì ngắt lời",
+        "example": "Sorry to interrupt, but we only have ten minutes left.",
+        "example_vi": "Xin lỗi vì ngắt lời, nhưng chúng ta chỉ còn mười phút thôi."
+      },
+      {
+        "en": "jump in",
+        "ipa": "/ˌdʒʌmp ˈɪn/",
+        "vi": "xen vào (cuộc trò chuyện)",
+        "example": "Can I jump in here? I have some data on that.",
+        "example_vi": "Tôi xen vào chút nhé? Tôi có vài số liệu về vấn đề này."
+      },
+      {
+        "en": "chime in",
+        "ipa": "/ˌtʃaɪm ˈɪn/",
+        "vi": "góp lời, thêm ý kiến vào",
+        "example": "Feel free to chime in if you have any suggestions.",
+        "example_vi": "Mọi người cứ thoải mái góp lời nếu có đề xuất gì nhé."
+      },
+      {
+        "en": "cut someone off",
+        "ipa": "/ˌkʌt ˌsʌmwʌn ˈɔːf/",
+        "vi": "ngắt lời ai đó (giữa chừng)",
+        "example": "Sorry to cut you off, but the client just called.",
+        "example_vi": "Xin lỗi phải ngắt lời anh, nhưng khách hàng vừa gọi đến."
+      },
+      {
+        "en": "hold that thought",
+        "ipa": "/ˌhoʊld ðæt ˈθɔːt/",
+        "vi": "giữ ý đó đã, lát quay lại sau",
+        "example": "Hold that thought — let's finish this slide first, then come back.",
+        "example_vi": "Giữ ý đó đã nhé — mình xong slide này trước rồi quay lại sau."
+      }
+    ]
+  },
+  {
+    "lesson": 24,
+    "topic": "Sắp xếp lịch họp",
+    "hook": "'Pencil in', 'squeeze in', 'push back' – bộ ba thần thánh khi hẹn lịch họp với người Mỹ. Học ngay kẻo dùng sai!",
+    "phrases": [
+      {
+        "en": "pencil in",
+        "ipa": "/ˌpensl ˈɪn/",
+        "vi": "tạm xếp lịch (chưa chốt chắc chắn)",
+        "example": "Let's pencil in Thursday at two and confirm by tomorrow.",
+        "example_vi": "Mình tạm xếp lịch thứ Năm lúc hai giờ, mai xác nhận lại nhé."
+      },
+      {
+        "en": "work for someone",
+        "ipa": "/ˈwɜːrk fər ˌsʌmwʌn/",
+        "vi": "phù hợp, thuận tiện cho ai đó (giờ giấc)",
+        "example": "Does ten o'clock on Monday work for you?",
+        "example_vi": "Mười giờ sáng thứ Hai có tiện cho anh không?"
+      },
+      {
+        "en": "free up",
+        "ipa": "/ˌfriː ˈʌp/",
+        "vi": "giải phóng, dọn trống (thời gian)",
+        "example": "I can free up an hour on Friday afternoon for the call.",
+        "example_vi": "Tôi có thể dọn trống một tiếng chiều thứ Sáu cho cuộc gọi."
+      },
+      {
+        "en": "squeeze in",
+        "ipa": "/ˌskwiːz ˈɪn/",
+        "vi": "chen thêm vào (lịch vốn đã kín)",
+        "example": "Can we squeeze in a quick meeting before lunch today?",
+        "example_vi": "Mình chen thêm một cuộc họp ngắn trước giờ ăn trưa nay được không?"
+      },
+      {
+        "en": "push back",
+        "ipa": "/ˌpʊʃ ˈbæk/",
+        "vi": "dời lại, lùi lịch",
+        "example": "Let's push back the kickoff meeting to next Tuesday.",
+        "example_vi": "Mình dời cuộc họp khởi động sang thứ Ba tuần sau nhé."
+      }
+    ]
+  },
+  {
+    "lesson": 25,
+    "topic": "Giao việc & Action Items",
+    "hook": "Cuối buổi họp với sếp Mỹ luôn có màn chia 'action items'. 5 cụm từ này giúp bạn nhận việc và giao việc chuẩn dân chuyên!",
+    "phrases": [
+      {
+        "en": "action items",
+        "ipa": "/ˈækʃn ˌaɪtəmz/",
+        "vi": "các đầu việc cần làm (sau cuộc họp)",
+        "example": "Let's list the action items before we leave this meeting.",
+        "example_vi": "Chúng ta liệt kê các đầu việc cần làm trước khi kết thúc cuộc họp nhé."
+      },
+      {
+        "en": "take the lead on",
+        "ipa": "/ˌteɪk ðə ˈliːd ɑːn/",
+        "vi": "đứng ra chủ trì, dẫn dắt (việc gì)",
+        "example": "Maria will take the lead on the client presentation next week.",
+        "example_vi": "Maria sẽ chủ trì bài thuyết trình cho khách hàng vào tuần tới."
+      },
+      {
+        "en": "take ownership of",
+        "ipa": "/ˌteɪk ˈoʊnərʃɪp əv/",
+        "vi": "nhận trách nhiệm trọn vẹn về (việc gì)",
+        "example": "I'll take ownership of the onboarding process for new hires.",
+        "example_vi": "Tôi sẽ chịu trách nhiệm trọn vẹn quy trình hội nhập cho nhân viên mới."
+      },
+      {
+        "en": "hand off",
+        "ipa": "/ˌhænd ˈɔːf/",
+        "vi": "bàn giao (công việc) cho người khác",
+        "example": "I'm handing off the social media accounts to Kevin next week.",
+        "example_vi": "Tuần sau tôi sẽ bàn giao các tài khoản mạng xã hội cho Kevin."
+      },
+      {
+        "en": "by end of day",
+        "ipa": "/baɪ ˌend əv ˈdeɪ/",
+        "vi": "trước cuối ngày hôm nay (EOD)",
+        "example": "Please send me the updated figures by end of day.",
+        "example_vi": "Vui lòng gửi tôi số liệu cập nhật trước cuối ngày hôm nay."
+      }
+    ]
+  },
+  {
+    "lesson": 26,
+    "topic": "Brainstorming – Động não ý tưởng",
+    "hook": "Họp brainstorm với team quốc tế mà chỉ ngồi im? 5 cụm từ này giúp bạn tung ý tưởng ào ào như người bản xứ!",
+    "phrases": [
+      {
+        "en": "think outside the box",
+        "ipa": "/ˌθɪŋk aʊtˌsaɪd ðə ˈbɑːks/",
+        "vi": "tư duy sáng tạo, phá lối mòn",
+        "example": "We need to think outside the box to win this account.",
+        "example_vi": "Chúng ta cần tư duy đột phá mới giành được hợp đồng này."
+      },
+      {
+        "en": "bounce ideas off",
+        "ipa": "/ˌbaʊns aɪˈdiːəz ˈɔːf/",
+        "vi": "trao đổi ý tưởng với ai để lấy phản hồi",
+        "example": "Can I bounce a few ideas off you before the pitch?",
+        "example_vi": "Mình trao đổi vài ý tưởng với bạn trước buổi pitch được không?"
+      },
+      {
+        "en": "off the top of my head",
+        "ipa": "/ˌɔːf ðə ˌtɑːp əv maɪ ˈhed/",
+        "vi": "nghĩ nhanh chưa kiểm chứng, nói ngay theo trí nhớ",
+        "example": "Off the top of my head, I'd say we need three designers.",
+        "example_vi": "Nghĩ nhanh thì tôi cho rằng chúng ta cần ba nhà thiết kế."
+      },
+      {
+        "en": "put our heads together",
+        "ipa": "/ˌpʊt ɑːr ˌhedz təˈɡeðər/",
+        "vi": "cùng nhau suy nghĩ, hợp sức tìm giải pháp",
+        "example": "Let's put our heads together and solve this shipping problem.",
+        "example_vi": "Chúng ta cùng hợp sức giải quyết vấn đề vận chuyển này nào."
+      },
+      {
+        "en": "throw out",
+        "ipa": "/ˌθroʊ ˈaʊt/",
+        "vi": "tung ra, nêu đại (ý tưởng) để thảo luận",
+        "example": "Just throw out any ideas — there are no wrong answers today.",
+        "example_vi": "Cứ tung ra mọi ý tưởng đi — hôm nay không có câu trả lời nào sai cả."
+      }
+    ]
+  },
+  {
+    "lesson": 27,
+    "topic": "Ra quyết định trong cuộc họp",
+    "hook": "'Make the call', 'no-brainer', 'on the fence' – người Mỹ ra quyết định bằng những cụm từ này. Bạn đã biết hết chưa?",
+    "phrases": [
+      {
+        "en": "make the call",
+        "ipa": "/ˌmeɪk ðə ˈkɔːl/",
+        "vi": "đưa ra quyết định cuối cùng",
+        "example": "You know the project best, so you should make the call.",
+        "example_vi": "Bạn hiểu dự án nhất, nên bạn hãy là người quyết định."
+      },
+      {
+        "en": "weigh the pros and cons",
+        "ipa": "/ˌweɪ ðə ˌproʊz ən ˈkɑːnz/",
+        "vi": "cân nhắc ưu và nhược điểm",
+        "example": "Let's weigh the pros and cons before choosing a vendor.",
+        "example_vi": "Chúng ta cân nhắc ưu nhược điểm trước khi chọn nhà cung cấp nhé."
+      },
+      {
+        "en": "settle on",
+        "ipa": "/ˌsetl ˈɑːn/",
+        "vi": "chốt, quyết định chọn (sau khi bàn bạc)",
+        "example": "After hours of discussion, we finally settled on the blue logo.",
+        "example_vi": "Sau nhiều giờ thảo luận, cuối cùng chúng tôi chốt mẫu logo màu xanh."
+      },
+      {
+        "en": "on the fence",
+        "ipa": "/ˌɑːn ðə ˈfens/",
+        "vi": "còn lưỡng lự, chưa quyết",
+        "example": "I'm still on the fence about hiring a second designer.",
+        "example_vi": "Tôi vẫn còn lưỡng lự về việc tuyển thêm một nhà thiết kế nữa."
+      },
+      {
+        "en": "a no-brainer",
+        "ipa": "/ə ˌnoʊ ˈbreɪnər/",
+        "vi": "quyết định quá dễ, khỏi cần nghĩ",
+        "example": "Switching to the cheaper supplier was a total no-brainer.",
+        "example_vi": "Chuyển sang nhà cung cấp rẻ hơn là quyết định quá dễ, khỏi phải nghĩ."
+      }
+    ]
+  },
+  {
+    "lesson": 28,
+    "topic": "Phản đối khéo léo trong cuộc họp",
+    "hook": "Phản đối ý kiến của sếp mà sếp vẫn gật gù? Đó là nghệ thuật – và đây là 5 cụm từ giúp bạn làm được điều đó!",
+    "phrases": [
+      {
+        "en": "I hear you",
+        "ipa": "/aɪ ˈhɪr juː/",
+        "vi": "tôi hiểu ý bạn (nhưng...)",
+        "example": "I hear you, but we simply don't have the budget this quarter.",
+        "example_vi": "Tôi hiểu ý anh, nhưng quý này chúng ta thực sự không có ngân sách."
+      },
+      {
+        "en": "with all due respect",
+        "ipa": "/wɪð ˌɔːl ˌduː rɪˈspekt/",
+        "vi": "với tất cả sự tôn trọng (trước khi phản bác)",
+        "example": "With all due respect, I think we're targeting the wrong audience.",
+        "example_vi": "Với tất cả sự tôn trọng, tôi nghĩ chúng ta đang nhắm sai đối tượng khách hàng."
+      },
+      {
+        "en": "play devil's advocate",
+        "ipa": "/ˌpleɪ ˌdevlz ˈædvəkət/",
+        "vi": "cố tình phản biện để xem xét vấn đề đa chiều",
+        "example": "Let me play devil's advocate: what if sales drop next quarter?",
+        "example_vi": "Để tôi phản biện thử nhé: lỡ doanh số quý sau giảm thì sao?"
+      },
+      {
+        "en": "not sold on",
+        "ipa": "/ˌnɑːt ˈsoʊld ɑːn/",
+        "vi": "chưa bị thuyết phục về",
+        "example": "I'm not sold on this design yet — it feels too busy.",
+        "example_vi": "Tôi vẫn chưa bị thuyết phục bởi thiết kế này — trông rối mắt quá."
+      },
+      {
+        "en": "have reservations about",
+        "ipa": "/hæv ˌrezərˈveɪʃnz əˈbaʊt/",
+        "vi": "còn băn khoăn, e ngại về",
+        "example": "I have some reservations about outsourcing our customer service.",
+        "example_vi": "Tôi vẫn còn băn khoăn về việc thuê ngoài bộ phận chăm sóc khách hàng."
+      }
+    ]
+  },
+  {
+    "lesson": 29,
+    "topic": "Kết thúc cuộc họp",
+    "hook": "Kết thúc cuộc họp đúng chất sếp Mỹ: gọn gàng, chuyên nghiệp, ai cũng rõ việc. 5 cụm từ này là chìa khóa!",
+    "phrases": [
+      {
+        "en": "wrap up",
+        "ipa": "/ˌræp ˈʌp/",
+        "vi": "kết thúc, gói lại (cuộc họp, công việc)",
+        "example": "Let's wrap up the meeting — it's almost five o'clock.",
+        "example_vi": "Chúng ta kết thúc cuộc họp nhé — sắp năm giờ rồi."
+      },
+      {
+        "en": "sum up",
+        "ipa": "/ˌsʌm ˈʌp/",
+        "vi": "tóm tắt, đúc kết lại",
+        "example": "To sum up, we'll launch in May and review results in June.",
+        "example_vi": "Tóm lại, chúng ta sẽ ra mắt vào tháng Năm và đánh giá kết quả vào tháng Sáu."
+      },
+      {
+        "en": "key takeaways",
+        "ipa": "/ˌkiː ˈteɪkəˌweɪz/",
+        "vi": "những điểm chính cần ghi nhớ",
+        "example": "The key takeaways are: cut costs, hire smart, and move fast.",
+        "example_vi": "Những điểm chính cần nhớ là: cắt giảm chi phí, tuyển người giỏi và hành động nhanh."
+      },
+      {
+        "en": "run out of time",
+        "ipa": "/ˌrʌn ˌaʊt əv ˈtaɪm/",
+        "vi": "hết thời gian",
+        "example": "We're running out of time, so let's discuss this next week.",
+        "example_vi": "Chúng ta sắp hết giờ rồi, vấn đề này để tuần sau bàn tiếp nhé."
+      },
+      {
+        "en": "call it a day",
+        "ipa": "/ˌkɔːl ɪt ə ˈdeɪ/",
+        "vi": "dừng tại đây, kết thúc ngày làm việc",
+        "example": "We've covered everything on the list, so let's call it a day.",
+        "example_vi": "Chúng ta đã bàn hết các mục rồi, vậy dừng tại đây nhé."
+      }
+    ]
+  },
+  {
+    "lesson": 30,
+    "topic": "Follow-up sau cuộc họp",
+    "hook": "Họp xong không follow-up là mất điểm nặng với sếp Mỹ! 5 cụm từ này giúp bạn theo sát công việc cực chuyên nghiệp.",
+    "phrases": [
+      {
+        "en": "follow up on",
+        "ipa": "/ˌfɑːloʊ ˈʌp ɑːn/",
+        "vi": "theo sát, xử lý tiếp (việc còn dang dở)",
+        "example": "I'll follow up on the pricing question with the vendor tomorrow.",
+        "example_vi": "Ngày mai tôi sẽ hỏi tiếp nhà cung cấp về vấn đề giá cả."
+      },
+      {
+        "en": "circle back",
+        "ipa": "/ˌsɜːrkl ˈbæk/",
+        "vi": "quay lại bàn tiếp (vấn đề) sau",
+        "example": "Let's circle back to the hiring plan after the holidays.",
+        "example_vi": "Sau kỳ nghỉ lễ chúng ta quay lại bàn tiếp kế hoạch tuyển dụng nhé."
+      },
+      {
+        "en": "touch base",
+        "ipa": "/ˌtʌtʃ ˈbeɪs/",
+        "vi": "liên hệ ngắn để trao đổi, cập nhật",
+        "example": "I just wanted to touch base about the conference next month.",
+        "example_vi": "Tôi chỉ muốn liên hệ trao đổi nhanh về hội nghị tháng tới."
+      },
+      {
+        "en": "keep someone posted",
+        "ipa": "/ˌkiːp ˌsʌmwʌn ˈpoʊstɪd/",
+        "vi": "thường xuyên cập nhật tình hình cho ai đó",
+        "example": "Keep me posted on any updates from the legal team.",
+        "example_vi": "Có tin gì mới từ bộ phận pháp lý thì cập nhật cho tôi nhé."
+      },
+      {
+        "en": "loop in",
+        "ipa": "/ˌluːp ˈɪn/",
+        "vi": "thêm ai đó vào luồng thông tin/email",
+        "example": "Please loop in the finance team on all budget emails.",
+        "example_vi": "Nhớ thêm đội tài chính vào tất cả các email về ngân sách nhé."
+      }
+    ]
+  }
+]
