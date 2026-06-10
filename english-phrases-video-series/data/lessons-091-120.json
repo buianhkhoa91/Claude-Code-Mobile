@@ -1,0 +1,1262 @@
+[
+  {
+    "lesson": 91,
+    "topic": "Mở đầu bài thuyết trình",
+    "hook": "Mở đầu thuyết trình mà ấp úng là mất điểm ngay 30 giây đầu! Học ngay 5 cụm từ người Mỹ dùng để mở màn cực tự tin.",
+    "phrases": [
+      {
+        "en": "kick things off",
+        "ipa": "/ˌkɪk ˌθɪŋz ˈɔːf/",
+        "vi": "bắt đầu, khai màn",
+        "example": "Let me kick things off with a quick story about our customers.",
+        "example_vi": "Để tôi mở màn bằng một câu chuyện ngắn về khách hàng của chúng ta."
+      },
+      {
+        "en": "give a brief overview",
+        "ipa": "/ˌɡɪv ə ˌbriːf ˈoʊvərvjuː/",
+        "vi": "trình bày tổng quan ngắn gọn",
+        "example": "First, I'll give a brief overview of our results this quarter.",
+        "example_vi": "Trước tiên, tôi sẽ trình bày tổng quan ngắn gọn về kết quả quý này."
+      },
+      {
+        "en": "set the stage",
+        "ipa": "/ˌset ðə ˈsteɪdʒ/",
+        "vi": "tạo bối cảnh, chuẩn bị tiền đề",
+        "example": "Before we begin, let me set the stage with some background.",
+        "example_vi": "Trước khi bắt đầu, tôi xin nêu vài thông tin nền để tạo bối cảnh."
+      },
+      {
+        "en": "dive right in",
+        "ipa": "/ˌdaɪv ˌraɪt ˈɪn/",
+        "vi": "vào thẳng vấn đề ngay",
+        "example": "We have a lot to cover, so let's dive right in.",
+        "example_vi": "Chúng ta có nhiều nội dung, nên hãy vào thẳng vấn đề luôn nhé."
+      },
+      {
+        "en": "grab your attention",
+        "ipa": "/ˌɡræb jər əˈtenʃn/",
+        "vi": "thu hút sự chú ý của bạn",
+        "example": "This one number will definitely grab your attention this morning.",
+        "example_vi": "Con số duy nhất này chắc chắn sẽ khiến mọi người chú ý sáng nay."
+      }
+    ]
+  },
+  {
+    "lesson": 92,
+    "topic": "Dẫn dắt cấu trúc bài thuyết trình",
+    "hook": "Bài thuyết trình hay là bài có lộ trình rõ ràng! 5 cụm từ này giúp bạn dẫn dắt người nghe đi đúng mạch như dân chuyên nghiệp.",
+    "phrases": [
+      {
+        "en": "walk you through",
+        "ipa": "/ˌwɔːk ju ˈθruː/",
+        "vi": "dẫn dắt bạn đi qua từng phần",
+        "example": "I'll walk you through the three main parts of this plan.",
+        "example_vi": "Tôi sẽ dẫn các bạn đi qua ba phần chính của kế hoạch này."
+      },
+      {
+        "en": "break it down",
+        "ipa": "/ˌbreɪk ɪt ˈdaʊn/",
+        "vi": "chia nhỏ ra để dễ hiểu",
+        "example": "Let me break it down into three simple steps for you.",
+        "example_vi": "Để tôi chia nhỏ nội dung thành ba bước đơn giản cho mọi người."
+      },
+      {
+        "en": "first and foremost",
+        "ipa": "/ˌfɜːrst ən ˈfɔːrmoʊst/",
+        "vi": "trước hết và quan trọng nhất",
+        "example": "First and foremost, we need to talk about the budget.",
+        "example_vi": "Trước hết và quan trọng nhất, chúng ta cần bàn về ngân sách."
+      },
+      {
+        "en": "cover the main points",
+        "ipa": "/ˌkʌvər ðə ˌmeɪn ˈpɔɪnts/",
+        "vi": "trình bày các ý chính",
+        "example": "Today I'll cover the main points in about twenty minutes.",
+        "example_vi": "Hôm nay tôi sẽ trình bày các ý chính trong khoảng hai mươi phút."
+      },
+      {
+        "en": "circle back to",
+        "ipa": "/ˌsɜːrkl ˈbæk tə/",
+        "vi": "quay lại (vấn đề) sau",
+        "example": "Hold that thought, and I'll circle back to pricing later.",
+        "example_vi": "Bạn cứ ghi nhớ ý đó, lát nữa tôi sẽ quay lại phần giá."
+      }
+    ]
+  },
+  {
+    "lesson": 93,
+    "topic": "Trình bày biểu đồ & hình ảnh",
+    "hook": "Slide đẹp mà không biết nói gì thì phí lắm! Đây là 5 cụm từ người Mỹ dùng khi trình bày biểu đồ và hình ảnh.",
+    "phrases": [
+      {
+        "en": "take a look at",
+        "ipa": "/ˌteɪk ə ˈlʊk æt/",
+        "vi": "hãy nhìn vào, xem qua",
+        "example": "Please take a look at the chart on this slide.",
+        "example_vi": "Mọi người hãy nhìn vào biểu đồ trên slide này nhé."
+      },
+      {
+        "en": "as you can see",
+        "ipa": "/əz ju kən ˈsiː/",
+        "vi": "như các bạn thấy đấy",
+        "example": "As you can see, sales doubled in the second half.",
+        "example_vi": "Như các bạn thấy, doanh số đã tăng gấp đôi trong nửa cuối năm."
+      },
+      {
+        "en": "point out",
+        "ipa": "/ˌpɔɪnt ˈaʊt/",
+        "vi": "chỉ ra, lưu ý",
+        "example": "I'd like to point out the sharp drop in March.",
+        "example_vi": "Tôi muốn chỉ ra mức sụt giảm mạnh trong tháng Ba."
+      },
+      {
+        "en": "zoom in on",
+        "ipa": "/ˌzuːm ˈɪn ɑːn/",
+        "vi": "tập trung phóng to vào (chi tiết)",
+        "example": "Now let's zoom in on the numbers for our top market.",
+        "example_vi": "Giờ hãy tập trung vào số liệu của thị trường lớn nhất của chúng ta."
+      },
+      {
+        "en": "at a glance",
+        "ipa": "/ət ə ˈɡlæns/",
+        "vi": "nhìn thoáng qua là thấy ngay",
+        "example": "This dashboard shows our progress at a glance.",
+        "example_vi": "Bảng điều khiển này cho thấy tiến độ của chúng ta chỉ trong một cái nhìn."
+      }
+    ]
+  },
+  {
+    "lesson": 94,
+    "topic": "Trình bày số liệu & dữ liệu",
+    "hook": "Nói về số liệu mà chỉ biết 'increase' với 'decrease' thì nhạt lắm! 5 cụm từ này sẽ làm phần data của bạn sống động hẳn.",
+    "phrases": [
+      {
+        "en": "crunch the numbers",
+        "ipa": "/ˌkrʌntʃ ðə ˈnʌmbərz/",
+        "vi": "tính toán, phân tích số liệu",
+        "example": "We crunched the numbers, and the project is clearly profitable.",
+        "example_vi": "Chúng tôi đã phân tích số liệu, và dự án rõ ràng có lãi."
+      },
+      {
+        "en": "a ballpark figure",
+        "ipa": "/ə ˌbɔːlpɑːrk ˈfɪɡjər/",
+        "vi": "con số ước lượng, áng chừng",
+        "example": "Can you give me a ballpark figure for next year's costs?",
+        "example_vi": "Anh cho tôi một con số ước chừng về chi phí năm tới được không?"
+      },
+      {
+        "en": "shoot up",
+        "ipa": "/ˌʃuːt ˈʌp/",
+        "vi": "tăng vọt",
+        "example": "Our online orders shot up by forty percent last month.",
+        "example_vi": "Đơn hàng online của chúng ta đã tăng vọt bốn mươi phần trăm tháng trước."
+      },
+      {
+        "en": "level off",
+        "ipa": "/ˌlevl ˈɔːf/",
+        "vi": "chững lại, đi ngang",
+        "example": "Growth leveled off in the third quarter, as this line shows.",
+        "example_vi": "Tăng trưởng đã chững lại trong quý ba, như đường này thể hiện."
+      },
+      {
+        "en": "speak for themselves",
+        "ipa": "/ˌspiːk fər ðəmˈselvz/",
+        "vi": "(số liệu) tự nói lên tất cả",
+        "example": "I won't add much because the numbers speak for themselves.",
+        "example_vi": "Tôi sẽ không nói thêm nhiều vì các con số đã tự nói lên tất cả."
+      }
+    ]
+  },
+  {
+    "lesson": 95,
+    "topic": "Nhấn mạnh ý quan trọng",
+    "hook": "Muốn người nghe nhớ mãi ý chính của bạn? Người Mỹ dùng 5 cụm từ này để nhấn mạnh điều quan trọng nhất!",
+    "phrases": [
+      {
+        "en": "drive home",
+        "ipa": "/ˌdraɪv ˈhoʊm/",
+        "vi": "nhấn mạnh cho thấm",
+        "example": "I want to drive home one point: quality always comes first.",
+        "example_vi": "Tôi muốn nhấn mạnh một điều: chất lượng luôn phải đặt lên hàng đầu."
+      },
+      {
+        "en": "the bottom line",
+        "ipa": "/ðə ˌbɑːtəm ˈlaɪn/",
+        "vi": "điều cốt lõi, mấu chốt",
+        "example": "The bottom line is we need to cut costs by ten percent.",
+        "example_vi": "Mấu chốt là chúng ta cần cắt giảm mười phần trăm chi phí."
+      },
+      {
+        "en": "above all",
+        "ipa": "/əˌbʌv ˈɔːl/",
+        "vi": "trên hết, quan trọng nhất là",
+        "example": "Above all, remember that our customers come first.",
+        "example_vi": "Trên hết, hãy nhớ rằng khách hàng luôn là ưu tiên số một."
+      },
+      {
+        "en": "can't stress enough",
+        "ipa": "/ˌkænt ˌstres ɪˈnʌf/",
+        "vi": "không thể nhấn mạnh hết được",
+        "example": "I can't stress enough how important this deadline is.",
+        "example_vi": "Tôi không thể nhấn mạnh hết tầm quan trọng của hạn chót này."
+      },
+      {
+        "en": "the key takeaway",
+        "ipa": "/ðə ˌkiː ˈteɪkəweɪ/",
+        "vi": "điều quan trọng nhất cần ghi nhớ",
+        "example": "The key takeaway is that early planning saves us money.",
+        "example_vi": "Điều quan trọng nhất cần nhớ là lập kế hoạch sớm giúp tiết kiệm chi phí."
+      }
+    ]
+  },
+  {
+    "lesson": 96,
+    "topic": "Chuyển ý mượt mà",
+    "hook": "Chuyển slide mà cứ 'next slide please' thì chán lắm! Học 5 cụm từ chuyển ý mượt như người bản xứ.",
+    "phrases": [
+      {
+        "en": "move on to",
+        "ipa": "/ˌmuːv ˈɑːn tə/",
+        "vi": "chuyển sang (phần tiếp theo)",
+        "example": "Now let's move on to the marketing plan for next year.",
+        "example_vi": "Giờ chúng ta chuyển sang kế hoạch marketing cho năm tới nhé."
+      },
+      {
+        "en": "that brings me to",
+        "ipa": "/ˌðæt ˈbrɪŋz mi tə/",
+        "vi": "điều đó dẫn tôi đến (ý tiếp theo)",
+        "example": "That brings me to my next point: customer feedback.",
+        "example_vi": "Điều đó dẫn tôi đến ý tiếp theo: phản hồi của khách hàng."
+      },
+      {
+        "en": "on that note",
+        "ipa": "/ˌɑːn ˈðæt ˌnoʊt/",
+        "vi": "nhân tiện nói đến đó",
+        "example": "On that note, let's look at how our competitors are doing.",
+        "example_vi": "Nhân nói đến đó, hãy xem các đối thủ của chúng ta đang làm gì."
+      },
+      {
+        "en": "speaking of which",
+        "ipa": "/ˌspiːkɪŋ əv ˈwɪtʃ/",
+        "vi": "nhắc mới nhớ, nói về điều đó",
+        "example": "Speaking of which, the new budget was approved this morning.",
+        "example_vi": "Nhắc mới nhớ, ngân sách mới đã được duyệt sáng nay."
+      },
+      {
+        "en": "switch gears",
+        "ipa": "/ˌswɪtʃ ˈɡɪrz/",
+        "vi": "đổi chủ đề, chuyển hướng",
+        "example": "Let's switch gears and talk about the hiring plan.",
+        "example_vi": "Chúng ta đổi chủ đề và bàn về kế hoạch tuyển dụng nhé."
+      }
+    ]
+  },
+  {
+    "lesson": 97,
+    "topic": "Xử lý phần hỏi đáp (Q&A)",
+    "hook": "Phần Q&A là lúc dễ 'toát mồ hôi' nhất khi thuyết trình! 5 cụm từ này giúp bạn xử lý mọi câu hỏi thật bình tĩnh.",
+    "phrases": [
+      {
+        "en": "open the floor",
+        "ipa": "/ˌoʊpən ðə ˈflɔːr/",
+        "vi": "mời mọi người đặt câu hỏi",
+        "example": "I'd like to open the floor to questions now.",
+        "example_vi": "Bây giờ tôi xin mời mọi người đặt câu hỏi."
+      },
+      {
+        "en": "that's a great question",
+        "ipa": "/ˌðæts ə ˌɡreɪt ˈkwestʃən/",
+        "vi": "câu hỏi rất hay (câu đệm khi trả lời)",
+        "example": "That's a great question, and the short answer is yes.",
+        "example_vi": "Đó là một câu hỏi rất hay, và câu trả lời ngắn gọn là có."
+      },
+      {
+        "en": "get back to you",
+        "ipa": "/ˌɡet ˈbæk tə ju/",
+        "vi": "trả lời bạn sau, phản hồi sau",
+        "example": "I don't have that data here, but I'll get back to you.",
+        "example_vi": "Tôi chưa có dữ liệu đó ở đây, nhưng tôi sẽ phản hồi bạn sau."
+      },
+      {
+        "en": "off the top of my head",
+        "ipa": "/ˌɔːf ðə ˌtɑːp əv maɪ ˈhed/",
+        "vi": "nói ngay không cần suy nghĩ kỹ",
+        "example": "Off the top of my head, I'd say around fifty units.",
+        "example_vi": "Nói nhanh theo trí nhớ thì tôi nghĩ khoảng năm mươi sản phẩm."
+      },
+      {
+        "en": "does that answer your question",
+        "ipa": "/ˌdʌz ˌðæt ˌænsər jər ˈkwestʃən/",
+        "vi": "như vậy đã trả lời câu hỏi của bạn chưa",
+        "example": "We plan to launch in May. Does that answer your question?",
+        "example_vi": "Chúng tôi dự kiến ra mắt vào tháng Năm. Như vậy đã trả lời câu hỏi của bạn chưa?"
+      }
+    ]
+  },
+  {
+    "lesson": 98,
+    "topic": "Kết thúc bài thuyết trình",
+    "hook": "Kết thúc ấn tượng quan trọng không kém mở đầu! Đây là 5 cụm từ giúp bạn chốt bài thuyết trình thật chuyên nghiệp.",
+    "phrases": [
+      {
+        "en": "wrap up",
+        "ipa": "/ˌræp ˈʌp/",
+        "vi": "kết thúc, tổng kết",
+        "example": "Let's wrap up with a quick review of our action items.",
+        "example_vi": "Chúng ta kết thúc bằng việc điểm nhanh các việc cần làm nhé."
+      },
+      {
+        "en": "to sum up",
+        "ipa": "/tə ˌsʌm ˈʌp/",
+        "vi": "tóm lại",
+        "example": "To sum up, we hit every target we set this year.",
+        "example_vi": "Tóm lại, chúng ta đã đạt mọi mục tiêu đề ra trong năm nay."
+      },
+      {
+        "en": "in a nutshell",
+        "ipa": "/ˌɪn ə ˈnʌtʃel/",
+        "vi": "nói ngắn gọn là",
+        "example": "In a nutshell, this plan saves time and cuts costs.",
+        "example_vi": "Nói ngắn gọn, kế hoạch này vừa tiết kiệm thời gian vừa giảm chi phí."
+      },
+      {
+        "en": "leave you with",
+        "ipa": "/ˈliːv ju wɪð/",
+        "vi": "để lại cho bạn (một thông điệp)",
+        "example": "I'll leave you with one final thought about our mission.",
+        "example_vi": "Tôi xin để lại cho các bạn một suy nghĩ cuối về sứ mệnh của chúng ta."
+      },
+      {
+        "en": "thank you for your time",
+        "ipa": "/ˌθæŋk ju fər jər ˈtaɪm/",
+        "vi": "cảm ơn đã dành thời gian",
+        "example": "Thank you for your time, and I welcome any feedback.",
+        "example_vi": "Cảm ơn mọi người đã dành thời gian, tôi rất mong nhận được góp ý."
+      }
+    ]
+  },
+  {
+    "lesson": 99,
+    "topic": "Thuyết phục người nghe",
+    "hook": "Thuyết trình giỏi là phải khiến người nghe gật gù đồng ý! 5 cụm từ này là vũ khí thuyết phục của dân công sở Mỹ.",
+    "phrases": [
+      {
+        "en": "win over",
+        "ipa": "/ˌwɪn ˈoʊvər/",
+        "vi": "thuyết phục được, chinh phục",
+        "example": "Her demo won over even the most skeptical investors.",
+        "example_vi": "Phần demo của cô ấy đã thuyết phục cả những nhà đầu tư khó tính nhất."
+      },
+      {
+        "en": "a no-brainer",
+        "ipa": "/ə ˌnoʊ ˈbreɪnər/",
+        "vi": "quyết định quá dễ, không cần nghĩ",
+        "example": "With these savings, switching vendors is a no-brainer.",
+        "example_vi": "Với mức tiết kiệm này, đổi nhà cung cấp là quyết định không cần nghĩ."
+      },
+      {
+        "en": "a game changer",
+        "ipa": "/ə ˈɡeɪm ˌtʃeɪndʒər/",
+        "vi": "yếu tố thay đổi cuộc chơi",
+        "example": "This new tool could be a game changer for our team.",
+        "example_vi": "Công cụ mới này có thể thay đổi hoàn toàn cuộc chơi cho đội ta."
+      },
+      {
+        "en": "get buy-in",
+        "ipa": "/ˌɡet ˈbaɪ ɪn/",
+        "vi": "nhận được sự ủng hộ, đồng thuận",
+        "example": "We need to get buy-in from leadership before we start.",
+        "example_vi": "Chúng ta cần được ban lãnh đạo ủng hộ trước khi bắt đầu."
+      },
+      {
+        "en": "make a strong case",
+        "ipa": "/ˌmeɪk ə ˌstrɔːŋ ˈkeɪs/",
+        "vi": "đưa ra lập luận thuyết phục",
+        "example": "The report makes a strong case for hiring more engineers.",
+        "example_vi": "Báo cáo đưa ra lập luận rất thuyết phục cho việc tuyển thêm kỹ sư."
+      }
+    ]
+  },
+  {
+    "lesson": 100,
+    "topic": "Collocations về thuyết trình",
+    "hook": "Bài số 100 rồi! Tổng hợp 5 collocations về thuyết trình mà bất cứ ai đi làm cũng phải biết.",
+    "phrases": [
+      {
+        "en": "deliver a presentation",
+        "ipa": "/dɪˌlɪvər ə ˌprezənˈteɪʃn/",
+        "vi": "thực hiện một bài thuyết trình",
+        "example": "She delivered a presentation to the board last Friday.",
+        "example_vi": "Cô ấy đã thuyết trình trước hội đồng quản trị vào thứ Sáu tuần trước."
+      },
+      {
+        "en": "engage the audience",
+        "ipa": "/ɪnˌɡeɪdʒ ði ˈɔːdiəns/",
+        "vi": "thu hút, tương tác với khán giả",
+        "example": "He asks questions throughout to engage the audience.",
+        "example_vi": "Anh ấy liên tục đặt câu hỏi để tương tác với khán giả."
+      },
+      {
+        "en": "get stage fright",
+        "ipa": "/ˌɡet ˈsteɪdʒ ˌfraɪt/",
+        "vi": "bị run khi đứng trước đám đông",
+        "example": "I always get stage fright right before big client meetings.",
+        "example_vi": "Tôi luôn bị run ngay trước những buổi họp khách hàng quan trọng."
+      },
+      {
+        "en": "run through the slides",
+        "ipa": "/ˌrʌn ˌθruː ðə ˈslaɪdz/",
+        "vi": "duyệt nhanh qua các slide",
+        "example": "Let's run through the slides once before the meeting.",
+        "example_vi": "Mình duyệt nhanh các slide một lượt trước buổi họp nhé."
+      },
+      {
+        "en": "make eye contact",
+        "ipa": "/ˌmeɪk ˈaɪ ˌkɑːntækt/",
+        "vi": "giao tiếp bằng mắt",
+        "example": "Try to make eye contact with people across the room.",
+        "example_vi": "Hãy cố giao tiếp bằng mắt với mọi người khắp khán phòng."
+      }
+    ]
+  },
+  {
+    "lesson": 101,
+    "topic": "Mở đầu cuộc đàm phán",
+    "hook": "Bước vào module Đàm phán! Mở đầu cuộc thương lượng thế nào cho chuyên nghiệp? 5 cụm từ này sẽ giúp bạn.",
+    "phrases": [
+      {
+        "en": "come to the table",
+        "ipa": "/ˌkʌm tə ðə ˈteɪbl/",
+        "vi": "ngồi vào bàn đàm phán",
+        "example": "Both sides agreed to come to the table next week.",
+        "example_vi": "Hai bên đã đồng ý ngồi vào bàn đàm phán vào tuần tới."
+      },
+      {
+        "en": "get the ball rolling",
+        "ipa": "/ˌɡet ðə ˌbɔːl ˈroʊlɪŋ/",
+        "vi": "khởi động, bắt đầu mọi việc",
+        "example": "Let's get the ball rolling by reviewing the key terms.",
+        "example_vi": "Chúng ta khởi động bằng việc xem lại các điều khoản chính nhé."
+      },
+      {
+        "en": "lay out",
+        "ipa": "/ˌleɪ ˈaʊt/",
+        "vi": "trình bày rõ ràng, vạch ra",
+        "example": "First, let me lay out what we're hoping to achieve.",
+        "example_vi": "Trước tiên, để tôi trình bày rõ những gì chúng tôi mong đạt được."
+      },
+      {
+        "en": "find common ground",
+        "ipa": "/ˌfaɪnd ˌkɑːmən ˈɡraʊnd/",
+        "vi": "tìm điểm chung",
+        "example": "Our goal today is to find common ground on pricing.",
+        "example_vi": "Mục tiêu hôm nay là tìm điểm chung về vấn đề giá cả."
+      },
+      {
+        "en": "on the same page",
+        "ipa": "/ˌɑːn ðə ˌseɪm ˈpeɪdʒ/",
+        "vi": "hiểu giống nhau, đồng quan điểm",
+        "example": "Before we negotiate, let's make sure we're on the same page.",
+        "example_vi": "Trước khi đàm phán, hãy chắc rằng hai bên hiểu vấn đề giống nhau."
+      }
+    ]
+  },
+  {
+    "lesson": 102,
+    "topic": "Đưa ra đề xuất",
+    "hook": "Đề xuất hay mà nói không khéo là hỏng! Học 5 cụm từ người Mỹ dùng để đưa ra đề xuất trong đàm phán.",
+    "phrases": [
+      {
+        "en": "put forward",
+        "ipa": "/ˌpʊt ˈfɔːrwərd/",
+        "vi": "đưa ra, đề xuất",
+        "example": "We'd like to put forward a proposal for a two-year deal.",
+        "example_vi": "Chúng tôi muốn đề xuất một thỏa thuận hợp tác hai năm."
+      },
+      {
+        "en": "make an offer",
+        "ipa": "/ˌmeɪk ən ˈɔːfər/",
+        "vi": "đưa ra lời đề nghị",
+        "example": "We're ready to make an offer that benefits both companies.",
+        "example_vi": "Chúng tôi sẵn sàng đưa ra đề nghị có lợi cho cả hai công ty."
+      },
+      {
+        "en": "float an idea",
+        "ipa": "/ˌfloʊt ən aɪˈdiːə/",
+        "vi": "nêu ý tưởng để thăm dò",
+        "example": "Can I float an idea about extending the contract term?",
+        "example_vi": "Tôi nêu thử một ý tưởng về việc kéo dài thời hạn hợp đồng nhé?"
+      },
+      {
+        "en": "how does that sound",
+        "ipa": "/ˌhaʊ dəz ˌðæt ˈsaʊnd/",
+        "vi": "bạn thấy thế nào",
+        "example": "We'll cover shipping costs for the first year. How does that sound?",
+        "example_vi": "Chúng tôi sẽ chịu phí vận chuyển năm đầu. Anh thấy thế nào?"
+      },
+      {
+        "en": "a win-win situation",
+        "ipa": "/ə ˌwɪn ˈwɪn ˌsɪtʃuˈeɪʃn/",
+        "vi": "tình huống đôi bên cùng có lợi",
+        "example": "This partnership is a win-win situation for both our teams.",
+        "example_vi": "Mối hợp tác này là tình huống đôi bên cùng có lợi cho cả hai đội."
+      }
+    ]
+  },
+  {
+    "lesson": 103,
+    "topic": "Mặc cả & trả giá",
+    "hook": "Đàm phán giá cả là nghệ thuật! 5 cụm từ này giúp bạn mặc cả tự tin như dân sales chuyên nghiệp ở Mỹ.",
+    "phrases": [
+      {
+        "en": "drive a hard bargain",
+        "ipa": "/ˌdraɪv ə ˌhɑːrd ˈbɑːrɡən/",
+        "vi": "mặc cả rất rắn, ép giá giỏi",
+        "example": "Their procurement team really drives a hard bargain every year.",
+        "example_vi": "Đội mua hàng của họ năm nào cũng mặc cả cực kỳ rắn."
+      },
+      {
+        "en": "knock down the price",
+        "ipa": "/ˌnɑːk ˌdaʊn ðə ˈpraɪs/",
+        "vi": "ép giảm giá xuống",
+        "example": "We managed to knock down the price by fifteen percent.",
+        "example_vi": "Chúng tôi đã ép giảm được giá xuống mười lăm phần trăm."
+      },
+      {
+        "en": "sweeten the deal",
+        "ipa": "/ˌswiːtn ðə ˈdiːl/",
+        "vi": "thêm ưu đãi cho hấp dẫn hơn",
+        "example": "To sweeten the deal, we'll throw in free training sessions.",
+        "example_vi": "Để thỏa thuận hấp dẫn hơn, chúng tôi sẽ tặng kèm các buổi đào tạo miễn phí."
+      },
+      {
+        "en": "haggle over",
+        "ipa": "/ˈhæɡl ˌoʊvər/",
+        "vi": "kì kèo, mặc cả qua lại về",
+        "example": "We spent an hour haggling over the delivery schedule.",
+        "example_vi": "Chúng tôi mất cả tiếng kì kèo qua lại về lịch giao hàng."
+      },
+      {
+        "en": "best and final offer",
+        "ipa": "/ˌbest ən ˌfaɪnl ˈɔːfər/",
+        "vi": "đề nghị cuối cùng, không đổi nữa",
+        "example": "Ninety thousand is our best and final offer for this project.",
+        "example_vi": "Chín mươi nghìn là đề nghị cuối cùng của chúng tôi cho dự án này."
+      }
+    ]
+  },
+  {
+    "lesson": 104,
+    "topic": "Nhượng bộ trong đàm phán",
+    "hook": "Đàm phán giỏi không phải là thắng tuyệt đối, mà là biết nhượng bộ đúng lúc! Học ngay 5 cụm từ này.",
+    "phrases": [
+      {
+        "en": "meet halfway",
+        "ipa": "/ˌmiːt ˌhæfˈweɪ/",
+        "vi": "mỗi bên nhường một nửa",
+        "example": "If you can meet us halfway on price, we have a deal.",
+        "example_vi": "Nếu bên anh chịu nhường một nửa về giá, chúng ta chốt luôn."
+      },
+      {
+        "en": "give and take",
+        "ipa": "/ˌɡɪv ən ˈteɪk/",
+        "vi": "sự nhân nhượng qua lại",
+        "example": "Every good negotiation involves a little give and take.",
+        "example_vi": "Mọi cuộc đàm phán tốt đều cần đôi chút nhân nhượng qua lại."
+      },
+      {
+        "en": "back down",
+        "ipa": "/ˌbæk ˈdaʊn/",
+        "vi": "nhượng bộ, rút lại yêu cầu",
+        "example": "They finally backed down on the strict payment terms.",
+        "example_vi": "Cuối cùng họ cũng nhượng bộ về các điều khoản thanh toán khắt khe."
+      },
+      {
+        "en": "make a concession",
+        "ipa": "/ˌmeɪk ə kənˈseʃn/",
+        "vi": "đưa ra một nhượng bộ",
+        "example": "We're willing to make a concession on the delivery date.",
+        "example_vi": "Chúng tôi sẵn sàng nhượng bộ về ngày giao hàng."
+      },
+      {
+        "en": "won't budge on",
+        "ipa": "/ˌwoʊnt ˈbʌdʒ ɑːn/",
+        "vi": "nhất quyết không thay đổi về",
+        "example": "They won't budge on price, but they're flexible on terms.",
+        "example_vi": "Họ nhất quyết không đổi giá, nhưng linh hoạt về các điều khoản khác."
+      }
+    ]
+  },
+  {
+    "lesson": 105,
+    "topic": "Từ chối đề nghị lịch sự",
+    "hook": "Từ chối mà vẫn giữ được quan hệ tốt là cả một nghệ thuật! 5 cụm từ này giúp bạn nói 'không' thật khéo léo.",
+    "phrases": [
+      {
+        "en": "turn down",
+        "ipa": "/ˌtɜːrn ˈdaʊn/",
+        "vi": "từ chối (lời đề nghị)",
+        "example": "We had to turn down their offer due to budget limits.",
+        "example_vi": "Chúng tôi đành từ chối đề nghị của họ vì hạn chế ngân sách."
+      },
+      {
+        "en": "pass on",
+        "ipa": "/ˌpæs ˈɑːn/",
+        "vi": "bỏ qua, không nhận (cơ hội)",
+        "example": "I'm afraid we'll have to pass on this opportunity for now.",
+        "example_vi": "Rất tiếc, hiện tại chúng tôi đành bỏ qua cơ hội này."
+      },
+      {
+        "en": "out of the question",
+        "ipa": "/ˌaʊt əv ðə ˈkwestʃən/",
+        "vi": "hoàn toàn không thể",
+        "example": "A fifty percent discount is out of the question, unfortunately.",
+        "example_vi": "Rất tiếc, giảm giá năm mươi phần trăm là điều hoàn toàn không thể."
+      },
+      {
+        "en": "doesn't work for us",
+        "ipa": "/ˌdʌznt ˌwɜːrk fər ˈʌs/",
+        "vi": "không phù hợp với chúng tôi",
+        "example": "That timeline doesn't work for us, but let's explore other options.",
+        "example_vi": "Mốc thời gian đó không phù hợp với chúng tôi, nhưng hãy cùng tìm phương án khác."
+      },
+      {
+        "en": "respectfully decline",
+        "ipa": "/rɪˌspektfəli dɪˈklaɪn/",
+        "vi": "từ chối một cách tôn trọng",
+        "example": "After careful review, we must respectfully decline your proposal.",
+        "example_vi": "Sau khi cân nhắc kỹ, chúng tôi xin phép từ chối đề xuất của quý vị."
+      }
+    ]
+  },
+  {
+    "lesson": 106,
+    "topic": "Đạt thỏa thuận",
+    "hook": "Khoảnh khắc hai bên gật đầu đồng ý là đỉnh cao của đàm phán! Đây là 5 cụm từ về việc đạt thỏa thuận.",
+    "phrases": [
+      {
+        "en": "strike a deal",
+        "ipa": "/ˌstraɪk ə ˈdiːl/",
+        "vi": "đạt được thỏa thuận",
+        "example": "After two long meetings, we finally struck a deal.",
+        "example_vi": "Sau hai buổi họp dài, cuối cùng chúng tôi cũng đạt được thỏa thuận."
+      },
+      {
+        "en": "come to terms",
+        "ipa": "/ˌkʌm tə ˈtɜːrmz/",
+        "vi": "đi đến thống nhất điều khoản",
+        "example": "Both companies came to terms on the licensing agreement.",
+        "example_vi": "Hai công ty đã thống nhất được các điều khoản của hợp đồng bản quyền."
+      },
+      {
+        "en": "iron out",
+        "ipa": "/ˌaɪərn ˈaʊt/",
+        "vi": "giải quyết nốt các chi tiết vướng mắc",
+        "example": "We just need to iron out a few small details.",
+        "example_vi": "Chúng ta chỉ cần giải quyết nốt vài chi tiết nhỏ nữa thôi."
+      },
+      {
+        "en": "shake on it",
+        "ipa": "/ˈʃeɪk ɑːn ɪt/",
+        "vi": "bắt tay chốt thỏa thuận",
+        "example": "We agreed on the price and shook on it right there.",
+        "example_vi": "Chúng tôi thống nhất giá và bắt tay chốt luôn tại chỗ."
+      },
+      {
+        "en": "sign off on",
+        "ipa": "/ˌsaɪn ˈɔːf ɑːn/",
+        "vi": "phê duyệt, ký duyệt",
+        "example": "The director needs to sign off on the final agreement.",
+        "example_vi": "Giám đốc cần ký duyệt bản thỏa thuận cuối cùng."
+      }
+    ]
+  },
+  {
+    "lesson": 107,
+    "topic": "Idioms về đàm phán",
+    "hook": "Người Mỹ nói chuyện đàm phán toàn bằng idioms! Không biết 5 thành ngữ này là dễ 'đứng hình' trong cuộc họp đấy.",
+    "phrases": [
+      {
+        "en": "the ball is in your court",
+        "ipa": "/ðə ˌbɔːl ɪz ɪn jʊr ˈkɔːrt/",
+        "vi": "quyền quyết định thuộc về bạn",
+        "example": "We've sent our final offer, so the ball is in your court.",
+        "example_vi": "Chúng tôi đã gửi đề nghị cuối cùng, giờ quyền quyết định thuộc về bên anh."
+      },
+      {
+        "en": "play hardball",
+        "ipa": "/ˌpleɪ ˈhɑːrdbɔːl/",
+        "vi": "chơi rắn, gây sức ép mạnh",
+        "example": "Their lawyers started playing hardball over the contract terms.",
+        "example_vi": "Luật sư của họ bắt đầu chơi rắn về các điều khoản hợp đồng."
+      },
+      {
+        "en": "lay your cards on the table",
+        "ipa": "/ˌleɪ jʊr ˌkɑːrdz ɑːn ðə ˈteɪbl/",
+        "vi": "nói thẳng hết ý định của mình",
+        "example": "Let's lay our cards on the table and discuss real numbers.",
+        "example_vi": "Hãy nói thẳng hết với nhau và bàn về những con số thực tế."
+      },
+      {
+        "en": "a sticking point",
+        "ipa": "/ə ˈstɪkɪŋ ˌpɔɪnt/",
+        "vi": "điểm vướng mắc, gây tranh cãi",
+        "example": "The payment schedule remains a sticking point in our talks.",
+        "example_vi": "Lịch thanh toán vẫn là điểm vướng mắc trong các cuộc đàm phán."
+      },
+      {
+        "en": "walk away from",
+        "ipa": "/ˌwɔːk əˈweɪ frəm/",
+        "vi": "rút lui, bỏ thỏa thuận",
+        "example": "We're prepared to walk away from the deal if terms don't improve.",
+        "example_vi": "Chúng tôi sẵn sàng rút lui khỏi thỏa thuận nếu điều khoản không tốt hơn."
+      }
+    ]
+  },
+  {
+    "lesson": 108,
+    "topic": "Nói về hợp đồng",
+    "hook": "Ký hợp đồng với đối tác nước ngoài mà không rành mấy cụm từ này thì rủi ro lắm! Học ngay 5 cụm từ về hợp đồng.",
+    "phrases": [
+      {
+        "en": "draw up",
+        "ipa": "/ˌdrɔː ˈʌp/",
+        "vi": "soạn thảo (hợp đồng, văn bản)",
+        "example": "Our legal team will draw up the contract by Friday.",
+        "example_vi": "Đội pháp chế của chúng tôi sẽ soạn xong hợp đồng trước thứ Sáu."
+      },
+      {
+        "en": "read the fine print",
+        "ipa": "/ˌriːd ðə ˌfaɪn ˈprɪnt/",
+        "vi": "đọc kỹ điều khoản chi tiết",
+        "example": "Always read the fine print before signing any agreement.",
+        "example_vi": "Luôn đọc kỹ các điều khoản chi tiết trước khi ký bất kỳ thỏa thuận nào."
+      },
+      {
+        "en": "in black and white",
+        "ipa": "/ɪn ˌblæk ən ˈwaɪt/",
+        "vi": "ghi rõ ràng trên giấy tờ",
+        "example": "We need every term in black and white before we proceed.",
+        "example_vi": "Chúng tôi cần mọi điều khoản ghi rõ trên giấy trắng mực đen trước khi tiến hành."
+      },
+      {
+        "en": "null and void",
+        "ipa": "/ˌnʌl ən ˈvɔɪd/",
+        "vi": "vô hiệu, không còn giá trị",
+        "example": "Missing the deadline makes the entire agreement null and void.",
+        "example_vi": "Trễ hạn sẽ khiến toàn bộ thỏa thuận trở nên vô hiệu."
+      },
+      {
+        "en": "breach of contract",
+        "ipa": "/ˌbriːtʃ əv ˈkɑːntrækt/",
+        "vi": "vi phạm hợp đồng",
+        "example": "Late delivery could be considered a breach of contract.",
+        "example_vi": "Giao hàng trễ có thể bị coi là vi phạm hợp đồng."
+      }
+    ]
+  },
+  {
+    "lesson": 109,
+    "topic": "Xử lý bế tắc trong đàm phán",
+    "hook": "Đàm phán rơi vào bế tắc thì làm sao? Người Mỹ dùng 5 cụm từ này để tháo gỡ tình huống căng thẳng nhất!",
+    "phrases": [
+      {
+        "en": "break the deadlock",
+        "ipa": "/ˌbreɪk ðə ˈdedlɑːk/",
+        "vi": "phá vỡ thế bế tắc",
+        "example": "A new proposal helped break the deadlock in our negotiations.",
+        "example_vi": "Một đề xuất mới đã giúp phá vỡ thế bế tắc trong cuộc đàm phán."
+      },
+      {
+        "en": "at an impasse",
+        "ipa": "/ət ən ˈɪmpæs/",
+        "vi": "rơi vào bế tắc",
+        "example": "Talks are at an impasse over the licensing fees.",
+        "example_vi": "Các cuộc đàm phán đang bế tắc vì vấn đề phí bản quyền."
+      },
+      {
+        "en": "back to the drawing board",
+        "ipa": "/ˌbæk tə ðə ˈdrɔːɪŋ ˌbɔːrd/",
+        "vi": "quay lại làm lại từ đầu",
+        "example": "They rejected our offer, so it's back to the drawing board.",
+        "example_vi": "Họ từ chối đề nghị của ta, vậy là phải làm lại từ đầu."
+      },
+      {
+        "en": "find middle ground",
+        "ipa": "/ˌfaɪnd ˌmɪdl ˈɡraʊnd/",
+        "vi": "tìm giải pháp dung hòa",
+        "example": "Both sides worked hard to find middle ground on pricing.",
+        "example_vi": "Hai bên đã nỗ lực tìm giải pháp dung hòa về giá."
+      },
+      {
+        "en": "take a step back",
+        "ipa": "/ˌteɪk ə ˌstep ˈbæk/",
+        "vi": "lùi lại để nhìn nhận vấn đề",
+        "example": "Let's take a step back and review what we both want.",
+        "example_vi": "Hãy lùi lại một bước và xem lại điều cả hai bên thực sự muốn."
+      }
+    ]
+  },
+  {
+    "lesson": 110,
+    "topic": "Chốt deal thành công",
+    "hook": "Khoảnh khắc chốt deal là lúc ngọt ngào nhất! Học 5 cụm từ người Mỹ dùng khi hoàn tất một thương vụ thành công.",
+    "phrases": [
+      {
+        "en": "seal the deal",
+        "ipa": "/ˌsiːl ðə ˈdiːl/",
+        "vi": "chốt thỏa thuận thành công",
+        "example": "A small discount was all it took to seal the deal.",
+        "example_vi": "Chỉ cần giảm giá một chút là đủ để chốt thành công thương vụ."
+      },
+      {
+        "en": "a done deal",
+        "ipa": "/ə ˌdʌn ˈdiːl/",
+        "vi": "chuyện đã xong, đã chốt",
+        "example": "Once both CEOs sign, the merger is a done deal.",
+        "example_vi": "Khi cả hai CEO ký xong, vụ sáp nhập coi như đã chốt."
+      },
+      {
+        "en": "dot the i's and cross the t's",
+        "ipa": "/ˌdɑːt ði ˈaɪz ən ˌkrɔːs ðə ˈtiːz/",
+        "vi": "rà soát kỹ từng chi tiết cuối",
+        "example": "Legal will dot the i's and cross the t's before signing.",
+        "example_vi": "Bộ phận pháp lý sẽ rà soát kỹ từng chi tiết trước khi ký."
+      },
+      {
+        "en": "follow through on",
+        "ipa": "/ˌfɑːloʊ ˈθruː ɑːn/",
+        "vi": "thực hiện đến cùng (cam kết)",
+        "example": "Winning the deal means nothing unless we follow through on it.",
+        "example_vi": "Thắng được hợp đồng cũng vô nghĩa nếu ta không thực hiện cam kết đến cùng."
+      },
+      {
+        "en": "pull off",
+        "ipa": "/ˌpʊl ˈɔːf/",
+        "vi": "làm được điều khó, thành công ngoạn mục",
+        "example": "Our team pulled off the biggest deal in company history.",
+        "example_vi": "Đội của chúng tôi đã làm nên thương vụ lớn nhất lịch sử công ty."
+      }
+    ]
+  },
+  {
+    "lesson": 111,
+    "topic": "Chào đón khách hàng",
+    "hook": "Ấn tượng đầu tiên quyết định tất cả trong dịch vụ khách hàng! 5 cụm từ chào đón khách chuẩn người Mỹ đây.",
+    "phrases": [
+      {
+        "en": "How can I help you today?",
+        "ipa": "/ˌhaʊ kən aɪ ˈhelp ju təˌdeɪ/",
+        "vi": "hôm nay tôi có thể giúp gì cho bạn",
+        "example": "Good morning! Welcome to TechStore. How can I help you today?",
+        "example_vi": "Chào buổi sáng! Chào mừng đến TechStore. Hôm nay tôi có thể giúp gì cho anh?"
+      },
+      {
+        "en": "right this way",
+        "ipa": "/ˌraɪt ˈðɪs ˌweɪ/",
+        "vi": "mời đi lối này",
+        "example": "Your meeting room is ready. Right this way, please.",
+        "example_vi": "Phòng họp của quý khách đã sẵn sàng. Xin mời đi lối này."
+      },
+      {
+        "en": "take a seat",
+        "ipa": "/ˌteɪk ə ˈsiːt/",
+        "vi": "mời ngồi",
+        "example": "Please take a seat while I pull up your account.",
+        "example_vi": "Mời anh ngồi trong lúc tôi mở thông tin tài khoản của anh."
+      },
+      {
+        "en": "be right with you",
+        "ipa": "/ˌbiː ˌraɪt ˈwɪð ju/",
+        "vi": "sẽ phục vụ bạn ngay",
+        "example": "I'm just finishing with another customer. I'll be right with you.",
+        "example_vi": "Tôi đang phục vụ nốt một khách hàng. Tôi sẽ hỗ trợ anh ngay."
+      },
+      {
+        "en": "feel free to",
+        "ipa": "/ˌfiːl ˈfriː tə/",
+        "vi": "cứ tự nhiên, đừng ngại",
+        "example": "Feel free to look around while you wait for your order.",
+        "example_vi": "Anh cứ tự nhiên tham quan trong lúc chờ đơn hàng nhé."
+      }
+    ]
+  },
+  {
+    "lesson": 112,
+    "topic": "Lắng nghe vấn đề của khách",
+    "hook": "Khách hàng chỉ cần được lắng nghe đúng cách là đã hạ hỏa một nửa! Học 5 cụm từ lắng nghe chuyên nghiệp này.",
+    "phrases": [
+      {
+        "en": "I hear you",
+        "ipa": "/ˌaɪ ˈhɪr ju/",
+        "vi": "tôi hiểu điều bạn nói",
+        "example": "I hear you, and we'll fix this issue right away.",
+        "example_vi": "Tôi hiểu vấn đề của anh, chúng tôi sẽ khắc phục ngay lập tức."
+      },
+      {
+        "en": "fill me in",
+        "ipa": "/ˌfɪl mi ˈɪn/",
+        "vi": "kể chi tiết cho tôi nghe",
+        "example": "Could you fill me in on what happened with your order?",
+        "example_vi": "Anh có thể kể chi tiết chuyện gì đã xảy ra với đơn hàng không?"
+      },
+      {
+        "en": "get to the bottom of",
+        "ipa": "/ˌɡet tə ðə ˈbɑːtəm əv/",
+        "vi": "tìm ra nguyên nhân gốc rễ",
+        "example": "We'll get to the bottom of this billing error today.",
+        "example_vi": "Chúng tôi sẽ tìm ra nguyên nhân lỗi hóa đơn này ngay hôm nay."
+      },
+      {
+        "en": "see where you're coming from",
+        "ipa": "/ˌsiː ˌwer jʊr ˈkʌmɪŋ frəm/",
+        "vi": "hiểu góc nhìn của bạn",
+        "example": "I see where you're coming from, and your frustration makes sense.",
+        "example_vi": "Tôi hiểu góc nhìn của anh, và sự bức xúc đó hoàn toàn có lý."
+      },
+      {
+        "en": "look into",
+        "ipa": "/ˌlʊk ˈɪntə/",
+        "vi": "xem xét, điều tra (vấn đề)",
+        "example": "Let me look into your case and call you back shortly.",
+        "example_vi": "Để tôi xem xét trường hợp của anh và gọi lại ngay sau đó."
+      }
+    ]
+  },
+  {
+    "lesson": 113,
+    "topic": "Xin lỗi & xoa dịu khách hàng",
+    "hook": "Một lời xin lỗi đúng cách có thể biến khách hàng giận dữ thành khách hàng trung thành! Đây là 5 cụm từ vàng để xoa dịu khách.",
+    "phrases": [
+      {
+        "en": "apologize for the inconvenience",
+        "ipa": "/əˌpɑːlədʒaɪz fər ði ˌɪnkənˈviːniəns/",
+        "vi": "xin lỗi vì sự bất tiện",
+        "example": "We sincerely apologize for the inconvenience this delay has caused.",
+        "example_vi": "Chúng tôi chân thành xin lỗi vì sự bất tiện mà việc chậm trễ này gây ra."
+      },
+      {
+        "en": "make it up to you",
+        "ipa": "/ˌmeɪk ɪt ˈʌp tə ju/",
+        "vi": "đền bù, bù đắp cho bạn",
+        "example": "Let us make it up to you with a free upgrade.",
+        "example_vi": "Hãy để chúng tôi bù đắp bằng một gói nâng cấp miễn phí."
+      },
+      {
+        "en": "smooth things over",
+        "ipa": "/ˌsmuːð ˌθɪŋz ˈoʊvər/",
+        "vi": "xoa dịu tình hình",
+        "example": "The manager stepped in to smooth things over with the client.",
+        "example_vi": "Quản lý đã vào cuộc để xoa dịu tình hình với khách hàng."
+      },
+      {
+        "en": "my sincere apologies",
+        "ipa": "/maɪ sɪnˌsɪr əˈpɑːlədʒiz/",
+        "vi": "lời xin lỗi chân thành của tôi",
+        "example": "My sincere apologies for the mix-up with your reservation.",
+        "example_vi": "Tôi chân thành xin lỗi vì sự nhầm lẫn với đặt chỗ của quý khách."
+      },
+      {
+        "en": "make things right",
+        "ipa": "/ˌmeɪk ˌθɪŋz ˈraɪt/",
+        "vi": "sửa sai, khắc phục cho đúng",
+        "example": "We dropped the ball, and we're committed to making things right.",
+        "example_vi": "Chúng tôi đã sơ suất và cam kết sẽ khắc phục mọi việc cho đúng."
+      }
+    ]
+  },
+  {
+    "lesson": 114,
+    "topic": "Giải quyết khiếu nại",
+    "hook": "Khiếu nại không đáng sợ, xử lý kém mới đáng sợ! 5 cụm từ này giúp bạn giải quyết khiếu nại gọn gàng, chuyên nghiệp.",
+    "phrases": [
+      {
+        "en": "sort out",
+        "ipa": "/ˌsɔːrt ˈaʊt/",
+        "vi": "giải quyết, xử lý ổn thỏa",
+        "example": "We'll sort out the billing problem within twenty-four hours.",
+        "example_vi": "Chúng tôi sẽ xử lý ổn thỏa vấn đề hóa đơn trong vòng hai mươi bốn giờ."
+      },
+      {
+        "en": "take care of",
+        "ipa": "/ˌteɪk ˈker əv/",
+        "vi": "lo liệu, xử lý giúp",
+        "example": "Don't worry, I'll take care of the refund personally.",
+        "example_vi": "Anh đừng lo, tôi sẽ đích thân lo liệu việc hoàn tiền."
+      },
+      {
+        "en": "follow up on",
+        "ipa": "/ˌfɑːloʊ ˈʌp ɑːn/",
+        "vi": "theo dõi tiếp, kiểm tra lại",
+        "example": "I'm calling to follow up on the complaint you filed Monday.",
+        "example_vi": "Tôi gọi để cập nhật về khiếu nại anh gửi hôm thứ Hai."
+      },
+      {
+        "en": "escalate the issue",
+        "ipa": "/ˌeskəleɪt ði ˈɪʃuː/",
+        "vi": "chuyển vấn đề lên cấp cao hơn",
+        "example": "If we can't fix it here, I'll escalate the issue to my manager.",
+        "example_vi": "Nếu không xử lý được ở đây, tôi sẽ chuyển vấn đề lên quản lý."
+      },
+      {
+        "en": "straighten out",
+        "ipa": "/ˌstreɪtn ˈaʊt/",
+        "vi": "làm rõ và xử lý dứt điểm",
+        "example": "Give me ten minutes to straighten out this account error.",
+        "example_vi": "Cho tôi mười phút để xử lý dứt điểm lỗi tài khoản này."
+      }
+    ]
+  },
+  {
+    "lesson": 115,
+    "topic": "Hướng dẫn khách hàng",
+    "hook": "Hướng dẫn khách hàng dễ hiểu là kỹ năng ăn tiền của dân dịch vụ! Học ngay 5 cụm từ hướng dẫn chuẩn bản xứ.",
+    "phrases": [
+      {
+        "en": "show you around",
+        "ipa": "/ˌʃoʊ ju əˈraʊnd/",
+        "vi": "dẫn bạn đi tham quan, giới thiệu",
+        "example": "Let me show you around the app's main features first.",
+        "example_vi": "Để tôi giới thiệu qua các tính năng chính của ứng dụng trước nhé."
+      },
+      {
+        "en": "step by step",
+        "ipa": "/ˌstep baɪ ˈstep/",
+        "vi": "từng bước một",
+        "example": "I'll guide you step by step through the setup process.",
+        "example_vi": "Tôi sẽ hướng dẫn anh từng bước một trong quá trình cài đặt."
+      },
+      {
+        "en": "all you have to do is",
+        "ipa": "/ˌɔːl ju ˌhæv tə ˈduː ɪz/",
+        "vi": "bạn chỉ cần làm là",
+        "example": "All you have to do is click this button and confirm.",
+        "example_vi": "Anh chỉ cần bấm nút này rồi xác nhận là xong."
+      },
+      {
+        "en": "keep in mind",
+        "ipa": "/ˌkiːp ɪn ˈmaɪnd/",
+        "vi": "lưu ý, ghi nhớ",
+        "example": "Keep in mind that the system updates every night at midnight.",
+        "example_vi": "Anh lưu ý là hệ thống cập nhật vào nửa đêm mỗi ngày nhé."
+      },
+      {
+        "en": "go ahead and",
+        "ipa": "/ˌɡoʊ əˈhed ənd/",
+        "vi": "cứ tiến hành, cứ làm đi",
+        "example": "Go ahead and enter your email, then press the green button.",
+        "example_vi": "Anh cứ nhập email vào, sau đó bấm nút màu xanh lá."
+      }
+    ]
+  },
+  {
+    "lesson": 116,
+    "topic": "Xử lý khách hàng khó tính",
+    "hook": "Gặp khách hàng đang 'bốc hỏa' thì phải làm sao? 5 cụm từ này là bí kíp giữ bình tĩnh và xử lý êm đẹp!",
+    "phrases": [
+      {
+        "en": "calm down",
+        "ipa": "/ˌkɑːm ˈdaʊn/",
+        "vi": "bình tĩnh lại",
+        "example": "The customer calmed down once we explained the refund process.",
+        "example_vi": "Vị khách đã bình tĩnh lại khi chúng tôi giải thích quy trình hoàn tiền."
+      },
+      {
+        "en": "defuse the situation",
+        "ipa": "/dɪˌfjuːz ðə ˌsɪtʃuˈeɪʃn/",
+        "vi": "hạ nhiệt, tháo ngòi căng thẳng",
+        "example": "A sincere apology helped defuse the situation quickly.",
+        "example_vi": "Một lời xin lỗi chân thành đã giúp hạ nhiệt tình hình nhanh chóng."
+      },
+      {
+        "en": "bear with me",
+        "ipa": "/ˌber ˈwɪð mi/",
+        "vi": "vui lòng kiên nhẫn chờ tôi chút",
+        "example": "Please bear with me while I check your purchase history.",
+        "example_vi": "Anh vui lòng chờ tôi một chút trong lúc kiểm tra lịch sử mua hàng."
+      },
+      {
+        "en": "put yourself in their shoes",
+        "ipa": "/ˌpʊt jərˌself ɪn ðer ˈʃuːz/",
+        "vi": "đặt mình vào vị trí của họ",
+        "example": "Put yourself in their shoes before responding to angry emails.",
+        "example_vi": "Hãy đặt mình vào vị trí khách hàng trước khi trả lời email bức xúc."
+      },
+      {
+        "en": "lose your cool",
+        "ipa": "/ˌluːz jər ˈkuːl/",
+        "vi": "mất bình tĩnh, nổi nóng",
+        "example": "Never lose your cool, even when a customer yells at you.",
+        "example_vi": "Đừng bao giờ mất bình tĩnh, kể cả khi khách hàng lớn tiếng với bạn."
+      }
+    ]
+  },
+  {
+    "lesson": 117,
+    "topic": "Chính sách đổi trả & hoàn tiền",
+    "hook": "Đổi trả, hoàn tiền là chủ đề khách hàng hỏi nhiều nhất! Nắm chắc 5 cụm từ này để trả lời tự tin, rõ ràng.",
+    "phrases": [
+      {
+        "en": "money-back guarantee",
+        "ipa": "/ˌmʌni ˌbæk ˌɡærənˈtiː/",
+        "vi": "cam kết hoàn tiền",
+        "example": "All our products come with a thirty-day money-back guarantee.",
+        "example_vi": "Mọi sản phẩm của chúng tôi đều có cam kết hoàn tiền trong ba mươi ngày."
+      },
+      {
+        "en": "issue a refund",
+        "ipa": "/ˌɪʃuː ə ˈriːfʌnd/",
+        "vi": "thực hiện hoàn tiền",
+        "example": "We'll issue a refund to your card within five business days.",
+        "example_vi": "Chúng tôi sẽ hoàn tiền vào thẻ của anh trong vòng năm ngày làm việc."
+      },
+      {
+        "en": "store credit",
+        "ipa": "/ˌstɔːr ˈkredɪt/",
+        "vi": "tín dụng mua hàng tại cửa hàng",
+        "example": "Would you prefer a refund or store credit for the return?",
+        "example_vi": "Anh muốn nhận hoàn tiền hay tín dụng mua hàng cho món trả lại?"
+      },
+      {
+        "en": "no questions asked",
+        "ipa": "/ˌnoʊ ˌkwestʃənz ˈæskt/",
+        "vi": "không cần lý do, không hỏi gì thêm",
+        "example": "You can return any item within fourteen days, no questions asked.",
+        "example_vi": "Anh có thể trả bất kỳ sản phẩm nào trong mười bốn ngày mà không cần lý do."
+      },
+      {
+        "en": "proof of purchase",
+        "ipa": "/ˌpruːf əv ˈpɜːrtʃəs/",
+        "vi": "bằng chứng mua hàng, hóa đơn",
+        "example": "Please bring your receipt as proof of purchase for the exchange.",
+        "example_vi": "Anh vui lòng mang hóa đơn làm bằng chứng mua hàng để đổi sản phẩm."
+      }
+    ]
+  },
+  {
+    "lesson": 118,
+    "topic": "Cảm ơn & giữ chân khách hàng",
+    "hook": "Giữ chân một khách hàng cũ rẻ hơn nhiều so với tìm khách mới! 5 cụm từ này giúp bạn khiến khách quay lại mãi.",
+    "phrases": [
+      {
+        "en": "go the extra mile",
+        "ipa": "/ˌɡoʊ ði ˌekstrə ˈmaɪl/",
+        "vi": "nỗ lực hơn cả mong đợi",
+        "example": "Our team always goes the extra mile for loyal customers.",
+        "example_vi": "Đội ngũ của chúng tôi luôn nỗ lực hết mình vì khách hàng thân thiết."
+      },
+      {
+        "en": "we appreciate your business",
+        "ipa": "/wi əˌpriːʃieɪt jər ˈbɪznəs/",
+        "vi": "cảm ơn quý khách đã ủng hộ",
+        "example": "We appreciate your business and hope to see you again soon.",
+        "example_vi": "Cảm ơn quý khách đã ủng hộ, mong sớm được gặp lại quý khách."
+      },
+      {
+        "en": "win back",
+        "ipa": "/ˌwɪn ˈbæk/",
+        "vi": "giành lại (khách hàng đã rời đi)",
+        "example": "The new loyalty program helped us win back former customers.",
+        "example_vi": "Chương trình khách hàng thân thiết mới đã giúp chúng tôi giành lại khách cũ."
+      },
+      {
+        "en": "keep customers coming back",
+        "ipa": "/ˌkiːp ˌkʌstəmərz ˌkʌmɪŋ ˈbæk/",
+        "vi": "khiến khách hàng quay lại thường xuyên",
+        "example": "Great after-sales service keeps customers coming back for years.",
+        "example_vi": "Dịch vụ hậu mãi tốt khiến khách hàng quay lại suốt nhiều năm."
+      },
+      {
+        "en": "build customer loyalty",
+        "ipa": "/ˌbɪld ˌkʌstəmər ˈlɔɪəlti/",
+        "vi": "xây dựng lòng trung thành của khách",
+        "example": "Small personal touches really help build customer loyalty over time.",
+        "example_vi": "Những cử chỉ quan tâm nhỏ thực sự giúp xây dựng lòng trung thành lâu dài."
+      }
+    ]
+  },
+  {
+    "lesson": 119,
+    "topic": "Chăm sóc khách hàng qua điện thoại",
+    "hook": "Nghe điện thoại khách hàng bằng tiếng Anh không còn là ác mộng! 5 cụm từ này cứu bạn trong mọi cuộc gọi.",
+    "phrases": [
+      {
+        "en": "put you on hold",
+        "ipa": "/ˌpʊt ju ɑːn ˈhoʊld/",
+        "vi": "để máy chờ trong giây lát",
+        "example": "May I put you on hold while I check your order status?",
+        "example_vi": "Tôi xin phép để máy chờ trong lúc kiểm tra trạng thái đơn hàng nhé?"
+      },
+      {
+        "en": "put you through",
+        "ipa": "/ˌpʊt ju ˈθruː/",
+        "vi": "nối máy, chuyển máy cho bạn",
+        "example": "I'll put you through to our technical support team now.",
+        "example_vi": "Tôi sẽ nối máy cho anh tới đội hỗ trợ kỹ thuật ngay bây giờ."
+      },
+      {
+        "en": "you're breaking up",
+        "ipa": "/jʊr ˌbreɪkɪŋ ˈʌp/",
+        "vi": "tín hiệu chập chờn, nghe không rõ",
+        "example": "Sorry, you're breaking up. Could you repeat your account number?",
+        "example_vi": "Xin lỗi, tín hiệu hơi chập chờn. Anh đọc lại số tài khoản giúp tôi nhé?"
+      },
+      {
+        "en": "return your call",
+        "ipa": "/rɪˌtɜːrn jər ˈkɔːl/",
+        "vi": "gọi lại cho bạn",
+        "example": "A specialist will return your call within two hours.",
+        "example_vi": "Chuyên viên sẽ gọi lại cho anh trong vòng hai tiếng."
+      },
+      {
+        "en": "thank you for calling",
+        "ipa": "/ˌθæŋk ju fər ˈkɔːlɪŋ/",
+        "vi": "cảm ơn quý khách đã gọi đến",
+        "example": "Thank you for calling, and have a wonderful day!",
+        "example_vi": "Cảm ơn quý khách đã gọi đến, chúc một ngày tuyệt vời!"
+      }
+    ]
+  },
+  {
+    "lesson": 120,
+    "topic": "Collocations về dịch vụ khách hàng",
+    "hook": "Bài cuối của module dịch vụ khách hàng! 5 collocations này xuất hiện trong mọi JD và cuộc họp về customer service.",
+    "phrases": [
+      {
+        "en": "provide excellent service",
+        "ipa": "/prəˌvaɪd ˌeksələnt ˈsɜːrvɪs/",
+        "vi": "cung cấp dịch vụ xuất sắc",
+        "example": "Our store is known for providing excellent service to every guest.",
+        "example_vi": "Cửa hàng chúng tôi nổi tiếng vì phục vụ xuất sắc mọi khách hàng."
+      },
+      {
+        "en": "meet customer expectations",
+        "ipa": "/ˌmiːt ˌkʌstəmər ˌekspekˈteɪʃnz/",
+        "vi": "đáp ứng kỳ vọng của khách hàng",
+        "example": "We review feedback monthly to make sure we meet customer expectations.",
+        "example_vi": "Chúng tôi xem phản hồi hằng tháng để đảm bảo đáp ứng kỳ vọng của khách."
+      },
+      {
+        "en": "handle complaints",
+        "ipa": "/ˌhændl kəmˈpleɪnts/",
+        "vi": "xử lý khiếu nại",
+        "example": "New staff get special training on how to handle complaints.",
+        "example_vi": "Nhân viên mới được đào tạo riêng về cách xử lý khiếu nại."
+      },
+      {
+        "en": "build rapport",
+        "ipa": "/ˌbɪld ræˈpɔːr/",
+        "vi": "xây dựng mối quan hệ thân thiện",
+        "example": "Good agents build rapport with customers in the first minute.",
+        "example_vi": "Nhân viên giỏi tạo được thiện cảm với khách ngay phút đầu tiên."
+      },
+      {
+        "en": "customer satisfaction",
+        "ipa": "/ˌkʌstəmər ˌsætɪsˈfækʃn/",
+        "vi": "sự hài lòng của khách hàng",
+        "example": "Customer satisfaction scores went up after we improved response times.",
+        "example_vi": "Điểm hài lòng của khách hàng tăng lên sau khi chúng tôi cải thiện tốc độ phản hồi."
+      }
+    ]
+  }
+]
